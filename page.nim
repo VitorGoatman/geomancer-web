@@ -7,12 +7,12 @@ var
   selected, lastselected = "m0"
   details: FigData
 
-proc readingCstring(): tuple[ms,ds,cs:array[4,array[4,cstring]], rw,lw,ju:array[4,cstring]] =
+proc readingCstring(): tuple[ms,ds,ns:array[4,array[4,cstring]], rw,lw,ju:array[4,cstring]] =
   for fs in 0..3:
     for f in 0..3:
       result.ms[fs][f] = reading.ms[fs][f].cstring
       result.ds[fs][f] = reading.ds[fs][f].cstring
-      result.cs[fs][f] = reading.cs[fs][f].cstring
+      result.ns[fs][f] = reading.ns[fs][f].cstring
   for f in 0..3:
     result.rw[f] = reading.rw[f].cstring
     result.lw[f] = reading.lw[f].cstring
@@ -66,17 +66,17 @@ proc genTable():VNode =
         for l in reading.ms[0]:
               pre: text l
     tr:
-      td(colspan="2",id="c3", onclick = () => selectFig(reading.cs[3],"c3")):
-        for l in reading.cs[3]:
+      td(colspan="2",id="n3", onclick = () => selectFig(reading.ns[3],"n3")):
+        for l in reading.ns[3]:
           pre: text l
-      td(colspan="2",id="c2", onclick = () => selectFig(reading.cs[2],"c2")):
-        for l in reading.cs[2]:
+      td(colspan="2",id="n2", onclick = () => selectFig(reading.ns[2],"n2")):
+        for l in reading.ns[2]:
           pre: text l
-      td(colspan="2",id="c1", onclick = () => selectFig(reading.cs[1],"c1")):
-        for l in reading.cs[1]:
+      td(colspan="2",id="n1", onclick = () => selectFig(reading.ns[1],"n1")):
+        for l in reading.ns[1]:
           pre: text l
-      td(colspan="2",id="c0", onclick = () => selectFig(reading.cs[0],"c0")):
-        for l in reading.cs[0]:
+      td(colspan="2",id="n0", onclick = () => selectFig(reading.ns[0],"n0")):
+        for l in reading.ns[0]:
           pre: text l
     tr:
       td(colspan="4",id="lw", onclick = () => selectFig(reading.lw,"lw")):
@@ -151,7 +151,7 @@ proc newReading() =
   cReading = readingCstring()
   selectFig(reading.ms[0], "m0")
   
-proc drawImg(reading:tuple[ms,ds,cs:array[4,array[4,cstring]], rw,lw,ju:array[4,cstring]]):cstring {.importc.}
+proc drawImg(reading:tuple[ms,ds,ns:array[4,array[4,cstring]], rw,lw,ju:array[4,cstring]]):cstring {.importc.}
 
 proc download() =
   let img = drawImg(cReading)

@@ -7,7 +7,7 @@ height:50px;
 line-height:10px;
 }
 #elements {text-align:left;}
-#d0,#d1,#d2,#d3,#m0,#m1,#m2,#m3,#c0,#c1,#c2,#c3,#lw, #rw, #ju {
+#d0,#d1,#d2,#d3,#m0,#m1,#m2,#m3,#n0,#n1,#n2,#n3,#lw, #rw, #ju {
 cursor:pointer;
 }
 #d0,#d1,#d2,#d3,#m0,#m1,#m2,#m3 {

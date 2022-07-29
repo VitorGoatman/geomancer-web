@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Geomancer</title>
+<link rel="icon" type="image/x-icon" href="icon.jpg">
 <link rel="stylesheet" href="w3.css">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -17,7 +18,7 @@ function drawImg(data) {
 	}
 	var ms = data.Field0
 	var ds = data.Field1
-	var cs = data.Field2
+	var ns = data.Field2
 	var rw = data.Field3
 	var lw = data.Field4
 	var ju = data.Field5
@@ -46,10 +47,10 @@ function drawImg(data) {
 	printFig(ctx,ms[2],265,30);
 	printFig(ctx,ms[1],315,30);
 	printFig(ctx,ms[0],365,30);
-	printFig(ctx,cs[3],40,105);
-	printFig(ctx,cs[2],140,105);
-	printFig(ctx,cs[1],240,105);
-	printFig(ctx,cs[0],340,105);
+	printFig(ctx,ns[3],40,105);
+	printFig(ctx,ns[2],140,105);
+	printFig(ctx,ns[1],240,105);
+	printFig(ctx,ns[0],340,105);
 	printFig(ctx,lw,90,180);
 	printFig(ctx,rw,290,180);
 	printFig(ctx,ju,190,255);

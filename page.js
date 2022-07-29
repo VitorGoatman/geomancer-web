@@ -1616,7 +1616,7 @@ function sumFigures_587202690(fig1_587202691, fig2_587202692) {
 
 }
 
-function getCousins_587202699(mothers_587202700, daughters_587202701) {
+function getNieces_587202699(mothers_587202700, daughters_587202701) {
   var result_587202702 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
 
     result_587202702[0] = nimCopy(result_587202702[0], sumFigures_587202690(mothers_587202700[0], mothers_587202700[1]), NTI587202563);
@@ -1634,13 +1634,13 @@ function geomancy_587202703() {
   BeforeRet: do {
     var ms_587202711 = getMothers_587202666();
     var ds_587202712 = getDaughters_587202682(ms_587202711);
-    var cs_587202713 = getCousins_587202699(ms_587202711, ds_587202712);
-    var rw_587202714 = sumFigures_587202690(cs_587202713[0], cs_587202713[1]);
-    var lw_587202715 = sumFigures_587202690(cs_587202713[2], cs_587202713[3]);
+    var ns_587202713 = getNieces_587202699(ms_587202711, ds_587202712);
+    var rw_587202714 = sumFigures_587202690(ns_587202713[0], ns_587202713[1]);
+    var lw_587202715 = sumFigures_587202690(ns_587202713[2], ns_587202713[3]);
     var ju_587202716 = sumFigures_587202690(rw_587202714, lw_587202715);
     var colontmp__452984856 = nimCopy(null, ms_587202711, NTI587202564);
     var colontmp__452984857 = nimCopy(null, ds_587202712, NTI587202564);
-    var colontmp__452984858 = nimCopy(null, cs_587202713, NTI587202564);
+    var colontmp__452984858 = nimCopy(null, ns_587202713, NTI587202564);
     var colontmp__452984859 = nimCopy(null, rw_587202714, NTI587202563);
     var colontmp__452984860 = nimCopy(null, lw_587202715, NTI587202563);
     var colontmp__452984861 = nimCopy(null, ju_587202716, NTI587202563);
@@ -3248,25 +3248,25 @@ function HEX3Aanonymous_452985146() {
     }
     
 function HEX3Aanonymous_452985153() {
-        selectFig_452984983(reading_452984843[0].Field2[3], makeNimstrLit("c3"));
+        selectFig_452984983(reading_452984843[0].Field2[3], makeNimstrLit("n3"));
 
       
     }
     
 function HEX3Aanonymous_452985160() {
-        selectFig_452984983(reading_452984843[0].Field2[2], makeNimstrLit("c2"));
+        selectFig_452984983(reading_452984843[0].Field2[2], makeNimstrLit("n2"));
 
       
     }
     
 function HEX3Aanonymous_452985167() {
-        selectFig_452984983(reading_452984843[0].Field2[1], makeNimstrLit("c1"));
+        selectFig_452984983(reading_452984843[0].Field2[1], makeNimstrLit("n1"));
 
       
     }
     
 function HEX3Aanonymous_452985174() {
-        selectFig_452984983(reading_452984843[0].Field2[0], makeNimstrLit("c0"));
+        selectFig_452984983(reading_452984843[0].Field2[0], makeNimstrLit("n0"));
 
       
     }
@@ -3490,7 +3490,7 @@ function HEX3Aanonymous_452985195() {
     var tmp_452985041 = tree_1140851462(187, []);
     var tmp_452985042 = tree_1140851462(188, []);
     setAttr_1140851325(tmp_452985042, "colspan", "2");
-    tmp_452985042.id = "c3";
+    tmp_452985042.id = "n3";
     addEventHandler_1107297421(tmp_452985042, 0, HEX3Aanonymous_452985153, kxi__);
     Label25: do {
       var l_452985159 = [];
@@ -3515,7 +3515,7 @@ function HEX3Aanonymous_452985195() {
     add_1140851399(tmp_452985041, tmp_452985042);
     var tmp_452985044 = tree_1140851462(188, []);
     setAttr_1140851325(tmp_452985044, "colspan", "2");
-    tmp_452985044.id = "c2";
+    tmp_452985044.id = "n2";
     addEventHandler_1107297421(tmp_452985044, 0, HEX3Aanonymous_452985160, kxi__);
     Label28: do {
       var l_452985166 = [];
@@ -3540,7 +3540,7 @@ function HEX3Aanonymous_452985195() {
     add_1140851399(tmp_452985041, tmp_452985044);
     var tmp_452985046 = tree_1140851462(188, []);
     setAttr_1140851325(tmp_452985046, "colspan", "2");
-    tmp_452985046.id = "c1";
+    tmp_452985046.id = "n1";
     addEventHandler_1107297421(tmp_452985046, 0, HEX3Aanonymous_452985167, kxi__);
     Label31: do {
       var l_452985173 = [];
@@ -3565,7 +3565,7 @@ function HEX3Aanonymous_452985195() {
     add_1140851399(tmp_452985041, tmp_452985046);
     var tmp_452985048 = tree_1140851462(188, []);
     setAttr_1140851325(tmp_452985048, "colspan", "2");
-    tmp_452985048.id = "c0";
+    tmp_452985048.id = "n0";
     addEventHandler_1107297421(tmp_452985048, 0, HEX3Aanonymous_452985174, kxi__);
     Label34: do {
       var l_452985180 = [];
