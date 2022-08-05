@@ -20,75 +20,75 @@ var NTI1140850791 = {size: 0, kind: 24, base: null, node: null, finalizer: null}
 var NTI1140850691 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
 var NTI1140850790 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1140850787 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757115 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757114 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757113 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757112 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757111 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757110 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757109 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757108 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757107 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757106 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757105 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757104 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757103 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757102 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757101 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757100 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757099 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757098 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757097 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757096 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757095 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757094 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757093 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757092 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620756997 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757040 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757180 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757177 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI620757176 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI620757089 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757179 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI620757090 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757029 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757028 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757141 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757031 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757030 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757140 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757139 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757039 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757038 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757138 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757137 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757033 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757032 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757136 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757143 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757035 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757034 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757142 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757146 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757037 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757036 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202683 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202682 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202681 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202680 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202679 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202678 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202677 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202676 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202675 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202674 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202673 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202672 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202671 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202670 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202669 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202668 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202667 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202666 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202665 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202664 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202663 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202662 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202661 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202660 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202565 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202608 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202748 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202745 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
+var NTI587202744 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI587202657 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202747 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI587202658 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202597 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202596 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202709 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202599 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202598 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202708 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202707 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202607 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202606 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202706 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202705 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202601 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202600 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202704 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202711 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202603 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202602 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202710 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202714 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202605 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202604 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI33554466 = {size: 0,kind: 1,base: null,node: null,finalizer: null};
-var NTI620757010 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757009 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757017 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757016 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757015 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757014 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI620757011 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
-var NTI620757135 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757134 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757133 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI620757013 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI620757012 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202578 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202577 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202585 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202584 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202583 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202582 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI587202579 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
+var NTI587202703 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202702 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202701 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI587202581 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202580 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI1107296261 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
 var NTI1107296262 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI620757041 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI587202609 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI33555113 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI33555124 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI33555083 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
@@ -96,32 +96,32 @@ var NTI33555165 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI33554440 = {size: 0,kind: 29,base: null,node: null,finalizer: null};
 var NTI33555164 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI33555112 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI603979779 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI587202684 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI587202564 = {size: 0, kind: 16, base: null, node: null, finalizer: null};
-var NTI587202563 = {size: 0, kind: 16, base: null, node: null, finalizer: null};
+var NTI1023410179 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI603979900 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI603979780 = {size: 0, kind: 16, base: null, node: null, finalizer: null};
+var NTI603979779 = {size: 0, kind: 16, base: null, node: null, finalizer: null};
 var NTI33554439 = {size: 0,kind: 28,base: null,node: null,finalizer: null};
 var NTI33554456 = {size: 0,kind: 31,base: null,node: null,finalizer: null};
-var NTI654311925 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI637534211 = {size: 0,kind: 43,base: null,node: null,finalizer: null};
-var NTI637534212 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NNI637534212 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a0", len: 0, typ: NTI637534211, name: "a0", sons: null}, 
-{kind: 1, offset: "a1", len: 0, typ: NTI637534211, name: "a1", sons: null}]};
-NTI637534212.node = NNI637534212;
-var NNI654311925 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI33554456, name: "a", sons: null}, 
+var NTI637534709 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI620756995 = {size: 0,kind: 43,base: null,node: null,finalizer: null};
+var NTI620756996 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NNI620756996 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a0", len: 0, typ: NTI620756995, name: "a0", sons: null}, 
+{kind: 1, offset: "a1", len: 0, typ: NTI620756995, name: "a1", sons: null}]};
+NTI620756996.node = NNI620756996;
+var NNI637534709 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI33554456, name: "a", sons: null}, 
 {kind: 1, offset: "b", len: 0, typ: NTI33554456, name: "b", sons: null}]};
-NTI654311925.node = NNI654311925;
-NTI587202563.base = NTI33554439;
-NTI587202564.base = NTI587202563;
-var NNI587202684 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI587202564, name: "Field0", sons: null}, 
-{kind: 1, offset: "Field1", len: 0, typ: NTI587202564, name: "Field1", sons: null}, 
-{kind: 1, offset: "Field2", len: 0, typ: NTI587202564, name: "Field2", sons: null}, 
-{kind: 1, offset: "Field3", len: 0, typ: NTI587202563, name: "Field3", sons: null}, 
-{kind: 1, offset: "Field4", len: 0, typ: NTI587202563, name: "Field4", sons: null}, 
-{kind: 1, offset: "Field5", len: 0, typ: NTI587202563, name: "Field5", sons: null}]};
-NTI587202684.node = NNI587202684;
-var NNI603979779 = {kind: 2, len: 13, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554439, name: "Field0", sons: null}, 
-{kind: 1, offset: "Field1", len: 0, typ: NTI587202563, name: "Field1", sons: null}, 
+NTI637534709.node = NNI637534709;
+NTI603979779.base = NTI33554439;
+NTI603979780.base = NTI603979779;
+var NNI603979900 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI603979780, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI603979780, name: "Field1", sons: null}, 
+{kind: 1, offset: "Field2", len: 0, typ: NTI603979780, name: "Field2", sons: null}, 
+{kind: 1, offset: "Field3", len: 0, typ: NTI603979779, name: "Field3", sons: null}, 
+{kind: 1, offset: "Field4", len: 0, typ: NTI603979779, name: "Field4", sons: null}, 
+{kind: 1, offset: "Field5", len: 0, typ: NTI603979779, name: "Field5", sons: null}]};
+NTI603979900.node = NNI603979900;
+var NNI1023410179 = {kind: 2, len: 14, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554439, name: "Field0", sons: null}, 
+{kind: 1, offset: "Field1", len: 0, typ: NTI603979779, name: "Field1", sons: null}, 
 {kind: 1, offset: "Field2", len: 0, typ: NTI33554439, name: "Field2", sons: null}, 
 {kind: 1, offset: "Field3", len: 0, typ: NTI33554439, name: "Field3", sons: null}, 
 {kind: 1, offset: "Field4", len: 0, typ: NTI33554439, name: "Field4", sons: null}, 
@@ -132,8 +132,9 @@ var NNI603979779 = {kind: 2, len: 13, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "Field9", len: 0, typ: NTI33554439, name: "Field9", sons: null}, 
 {kind: 1, offset: "Field10", len: 0, typ: NTI33554439, name: "Field10", sons: null}, 
 {kind: 1, offset: "Field11", len: 0, typ: NTI33554439, name: "Field11", sons: null}, 
-{kind: 1, offset: "Field12", len: 0, typ: NTI33554439, name: "Field12", sons: null}]};
-NTI603979779.node = NNI603979779;
+{kind: 1, offset: "Field12", len: 0, typ: NTI33554439, name: "Field12", sons: null}, 
+{kind: 1, offset: "Field13", len: 0, typ: NTI33554439, name: "Field13", sons: null}]};
+NTI1023410179.node = NNI1023410179;
 NTI33555164.base = NTI33555112;
 NTI33555165.base = NTI33555112;
 var NNI33555112 = {kind: 2, len: 5, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "parent", len: 0, typ: NTI33555164, name: "parent", sons: null}, 
@@ -151,7 +152,7 @@ var NNI33555113 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
 NTI33555113.node = NNI33555113;
 NTI33555113.base = NTI33555112;
 NTI33555124.base = NTI33555113;
-var NNI620757041 = {kind: 2, len: 368, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "alignContent", len: 0, typ: NTI33554440, name: "alignContent", sons: null}, 
+var NNI587202609 = {kind: 2, len: 368, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "alignContent", len: 0, typ: NTI33554440, name: "alignContent", sons: null}, 
 {kind: 1, offset: "alignItems", len: 0, typ: NTI33554440, name: "alignItems", sons: null}, 
 {kind: 1, offset: "alignSelf", len: 0, typ: NTI33554440, name: "alignSelf", sons: null}, 
 {kind: 1, offset: "all", len: 0, typ: NTI33554440, name: "all", sons: null}, 
@@ -519,8 +520,8 @@ var NNI620757041 = {kind: 2, len: 368, offset: 0, typ: null, name: null, sons: [
 {kind: 1, offset: "wordSpacing", len: 0, typ: NTI33554440, name: "wordSpacing", sons: null}, 
 {kind: 1, offset: "writingMode", len: 0, typ: NTI33554440, name: "writingMode", sons: null}, 
 {kind: 1, offset: "zIndex", len: 0, typ: NTI33554440, name: "zIndex", sons: null}]};
-NTI620757041.node = NNI620757041;
-NTI620757041.base = NTI33555083;
+NTI587202609.node = NNI587202609;
+NTI587202609.base = NTI33555083;
 var NNI1107296261 = {kind: 2, offset: 0, typ: null, name: null, len: 6, sons: {"0": {kind: 1, offset: 0, typ: NTI1107296261, name: "pkReplace", len: 0, sons: null}, 
 "1": {kind: 1, offset: 1, typ: NTI1107296261, name: "pkRemove", len: 0, sons: null}, 
 "2": {kind: 1, offset: 2, typ: NTI1107296261, name: "pkAppend", len: 0, sons: null}, 
@@ -528,61 +529,61 @@ var NNI1107296261 = {kind: 2, offset: 0, typ: null, name: null, len: 6, sons: {"
 "4": {kind: 1, offset: 4, typ: NTI1107296261, name: "pkDetach", len: 0, sons: null}, 
 "5": {kind: 1, offset: 5, typ: NTI1107296261, name: "pkSame", len: 0, sons: null}}};
 NTI1107296261.node = NNI1107296261;
-NTI620757133.base = NTI620757012;
-NTI620757134.base = NTI620757012;
-NTI620757135.base = NTI620757012;
-var NNI620757011 = {kind: 2, offset: 0, typ: null, name: null, len: 12, sons: {"1": {kind: 1, offset: 1, typ: NTI620757011, name: "ElementNode", len: 0, sons: null}, 
-"2": {kind: 1, offset: 2, typ: NTI620757011, name: "AttributeNode", len: 0, sons: null}, 
-"3": {kind: 1, offset: 3, typ: NTI620757011, name: "TextNode", len: 0, sons: null}, 
-"4": {kind: 1, offset: 4, typ: NTI620757011, name: "CDATANode", len: 0, sons: null}, 
-"5": {kind: 1, offset: 5, typ: NTI620757011, name: "EntityRefNode", len: 0, sons: null}, 
-"6": {kind: 1, offset: 6, typ: NTI620757011, name: "EntityNode", len: 0, sons: null}, 
-"7": {kind: 1, offset: 7, typ: NTI620757011, name: "ProcessingInstructionNode", len: 0, sons: null}, 
-"8": {kind: 1, offset: 8, typ: NTI620757011, name: "CommentNode", len: 0, sons: null}, 
-"9": {kind: 1, offset: 9, typ: NTI620757011, name: "DocumentNode", len: 0, sons: null}, 
-"10": {kind: 1, offset: 10, typ: NTI620757011, name: "DocumentTypeNode", len: 0, sons: null}, 
-"11": {kind: 1, offset: 11, typ: NTI620757011, name: "DocumentFragmentNode", len: 0, sons: null}, 
-"12": {kind: 1, offset: 12, typ: NTI620757011, name: "NotationNode", len: 0, sons: null}}};
-NTI620757011.node = NNI620757011;
-var NNI620757010 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
-NTI620757010.node = NNI620757010;
-NTI620757010.base = NTI33555083;
-NTI620757009.base = NTI620757010;
-NTI620757146.base = NTI620757016;
-var NNI620757037 = {kind: 2, len: 10, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "acceptCharset", len: 0, typ: NTI33554440, name: "acceptCharset", sons: null}, 
+NTI587202701.base = NTI587202580;
+NTI587202702.base = NTI587202580;
+NTI587202703.base = NTI587202580;
+var NNI587202579 = {kind: 2, offset: 0, typ: null, name: null, len: 12, sons: {"1": {kind: 1, offset: 1, typ: NTI587202579, name: "ElementNode", len: 0, sons: null}, 
+"2": {kind: 1, offset: 2, typ: NTI587202579, name: "AttributeNode", len: 0, sons: null}, 
+"3": {kind: 1, offset: 3, typ: NTI587202579, name: "TextNode", len: 0, sons: null}, 
+"4": {kind: 1, offset: 4, typ: NTI587202579, name: "CDATANode", len: 0, sons: null}, 
+"5": {kind: 1, offset: 5, typ: NTI587202579, name: "EntityRefNode", len: 0, sons: null}, 
+"6": {kind: 1, offset: 6, typ: NTI587202579, name: "EntityNode", len: 0, sons: null}, 
+"7": {kind: 1, offset: 7, typ: NTI587202579, name: "ProcessingInstructionNode", len: 0, sons: null}, 
+"8": {kind: 1, offset: 8, typ: NTI587202579, name: "CommentNode", len: 0, sons: null}, 
+"9": {kind: 1, offset: 9, typ: NTI587202579, name: "DocumentNode", len: 0, sons: null}, 
+"10": {kind: 1, offset: 10, typ: NTI587202579, name: "DocumentTypeNode", len: 0, sons: null}, 
+"11": {kind: 1, offset: 11, typ: NTI587202579, name: "DocumentFragmentNode", len: 0, sons: null}, 
+"12": {kind: 1, offset: 12, typ: NTI587202579, name: "NotationNode", len: 0, sons: null}}};
+NTI587202579.node = NNI587202579;
+var NNI587202578 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
+NTI587202578.node = NNI587202578;
+NTI587202578.base = NTI33555083;
+NTI587202577.base = NTI587202578;
+NTI587202714.base = NTI587202584;
+var NNI587202605 = {kind: 2, len: 10, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "acceptCharset", len: 0, typ: NTI33554440, name: "acceptCharset", sons: null}, 
 {kind: 1, offset: "action", len: 0, typ: NTI33554440, name: "action", sons: null}, 
 {kind: 1, offset: "autocomplete", len: 0, typ: NTI33554440, name: "autocomplete", sons: null}, 
-{kind: 1, offset: "elements", len: 0, typ: NTI620757146, name: "elements", sons: null}, 
+{kind: 1, offset: "elements", len: 0, typ: NTI587202714, name: "elements", sons: null}, 
 {kind: 1, offset: "encoding", len: 0, typ: NTI33554440, name: "encoding", sons: null}, 
 {kind: 1, offset: "enctype", len: 0, typ: NTI33554440, name: "enctype", sons: null}, 
 {kind: 1, offset: "length", len: 0, typ: NTI33554456, name: "length", sons: null}, 
 {kind: 1, offset: "method", len: 0, typ: NTI33554440, name: "method", sons: null}, 
 {kind: 1, offset: "noValidate", len: 0, typ: NTI33554466, name: "noValidate", sons: null}, 
 {kind: 1, offset: "target", len: 0, typ: NTI33554440, name: "target", sons: null}]};
-NTI620757037.node = NNI620757037;
-NTI620757037.base = NTI620757017;
-NTI620757036.base = NTI620757037;
-var NNI620757035 = {kind: 2, len: 5, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "defaultSelected", len: 0, typ: NTI33554466, name: "defaultSelected", sons: null}, 
+NTI587202605.node = NNI587202605;
+NTI587202605.base = NTI587202585;
+NTI587202604.base = NTI587202605;
+var NNI587202603 = {kind: 2, len: 5, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "defaultSelected", len: 0, typ: NTI33554466, name: "defaultSelected", sons: null}, 
 {kind: 1, offset: "selected", len: 0, typ: NTI33554466, name: "selected", sons: null}, 
 {kind: 1, offset: "selectedIndex", len: 0, typ: NTI33554456, name: "selectedIndex", sons: null}, 
 {kind: 1, offset: "text", len: 0, typ: NTI33554440, name: "text", sons: null}, 
 {kind: 1, offset: "value", len: 0, typ: NTI33554440, name: "value", sons: null}]};
-NTI620757035.node = NNI620757035;
-NTI620757035.base = NTI620757017;
-NTI620757034.base = NTI620757035;
-NTI620757142.base = NTI620757034;
-NTI620757143.base = NTI620757034;
-var NNI620757017 = {kind: 2, len: 20, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "className", len: 0, typ: NTI33554440, name: "className", sons: null}, 
-{kind: 1, offset: "classList", len: 0, typ: NTI620757009, name: "classList", sons: null}, 
+NTI587202603.node = NNI587202603;
+NTI587202603.base = NTI587202585;
+NTI587202602.base = NTI587202603;
+NTI587202710.base = NTI587202602;
+NTI587202711.base = NTI587202602;
+var NNI587202585 = {kind: 2, len: 20, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "className", len: 0, typ: NTI33554440, name: "className", sons: null}, 
+{kind: 1, offset: "classList", len: 0, typ: NTI587202577, name: "classList", sons: null}, 
 {kind: 1, offset: "checked", len: 0, typ: NTI33554466, name: "checked", sons: null}, 
 {kind: 1, offset: "defaultChecked", len: 0, typ: NTI33554466, name: "defaultChecked", sons: null}, 
 {kind: 1, offset: "defaultValue", len: 0, typ: NTI33554440, name: "defaultValue", sons: null}, 
 {kind: 1, offset: "disabled", len: 0, typ: NTI33554466, name: "disabled", sons: null}, 
-{kind: 1, offset: "form", len: 0, typ: NTI620757036, name: "form", sons: null}, 
+{kind: 1, offset: "form", len: 0, typ: NTI587202604, name: "form", sons: null}, 
 {kind: 1, offset: "name", len: 0, typ: NTI33554440, name: "name", sons: null}, 
 {kind: 1, offset: "readOnly", len: 0, typ: NTI33554466, name: "readOnly", sons: null}, 
-{kind: 1, offset: "options", len: 0, typ: NTI620757142, name: "options", sons: null}, 
-{kind: 1, offset: "selectedOptions", len: 0, typ: NTI620757143, name: "selectedOptions", sons: null}, 
+{kind: 1, offset: "options", len: 0, typ: NTI587202710, name: "options", sons: null}, 
+{kind: 1, offset: "selectedOptions", len: 0, typ: NTI587202711, name: "selectedOptions", sons: null}, 
 {kind: 1, offset: "clientWidth", len: 0, typ: NTI33554456, name: "clientWidth", sons: null}, 
 {kind: 1, offset: "clientHeight", len: 0, typ: NTI33554456, name: "clientHeight", sons: null}, 
 {kind: 1, offset: "contentEditable", len: 0, typ: NTI33554440, name: "contentEditable", sons: null}, 
@@ -592,18 +593,18 @@ var NNI620757017 = {kind: 2, len: 20, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "offsetWidth", len: 0, typ: NTI33554456, name: "offsetWidth", sons: null}, 
 {kind: 1, offset: "offsetLeft", len: 0, typ: NTI33554456, name: "offsetLeft", sons: null}, 
 {kind: 1, offset: "offsetTop", len: 0, typ: NTI33554456, name: "offsetTop", sons: null}]};
-NTI620757017.node = NNI620757017;
-NTI620757017.base = NTI620757013;
-NTI620757016.base = NTI620757017;
-var NNI620757033 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "text", len: 0, typ: NTI33554440, name: "text", sons: null}, 
+NTI587202585.node = NNI587202585;
+NTI587202585.base = NTI587202581;
+NTI587202584.base = NTI587202585;
+var NNI587202601 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "text", len: 0, typ: NTI33554440, name: "text", sons: null}, 
 {kind: 1, offset: "x", len: 0, typ: NTI33554456, name: "x", sons: null}, 
 {kind: 1, offset: "y", len: 0, typ: NTI33554456, name: "y", sons: null}]};
-NTI620757033.node = NNI620757033;
-NTI620757033.base = NTI620757017;
-NTI620757032.base = NTI620757033;
-NTI620757136.base = NTI620757032;
-NTI620757137.base = NTI620757036;
-var NNI620757039 = {kind: 2, len: 8, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "border", len: 0, typ: NTI33554456, name: "border", sons: null}, 
+NTI587202601.node = NNI587202601;
+NTI587202601.base = NTI587202585;
+NTI587202600.base = NTI587202601;
+NTI587202704.base = NTI587202600;
+NTI587202705.base = NTI587202604;
+var NNI587202607 = {kind: 2, len: 8, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "border", len: 0, typ: NTI33554456, name: "border", sons: null}, 
 {kind: 1, offset: "complete", len: 0, typ: NTI33554466, name: "complete", sons: null}, 
 {kind: 1, offset: "height", len: 0, typ: NTI33554456, name: "height", sons: null}, 
 {kind: 1, offset: "hspace", len: 0, typ: NTI33554456, name: "hspace", sons: null}, 
@@ -611,114 +612,114 @@ var NNI620757039 = {kind: 2, len: 8, offset: 0, typ: null, name: null, sons: [{k
 {kind: 1, offset: "src", len: 0, typ: NTI33554440, name: "src", sons: null}, 
 {kind: 1, offset: "vspace", len: 0, typ: NTI33554456, name: "vspace", sons: null}, 
 {kind: 1, offset: "width", len: 0, typ: NTI33554456, name: "width", sons: null}]};
-NTI620757039.node = NNI620757039;
-NTI620757039.base = NTI620757017;
-NTI620757038.base = NTI620757039;
-NTI620757138.base = NTI620757038;
-NTI620757139.base = NTI620757016;
-var NNI620757031 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "height", len: 0, typ: NTI33554456, name: "height", sons: null}, 
+NTI587202607.node = NNI587202607;
+NTI587202607.base = NTI587202585;
+NTI587202606.base = NTI587202607;
+NTI587202706.base = NTI587202606;
+NTI587202707.base = NTI587202584;
+var NNI587202599 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "height", len: 0, typ: NTI33554456, name: "height", sons: null}, 
 {kind: 1, offset: "hspace", len: 0, typ: NTI33554456, name: "hspace", sons: null}, 
 {kind: 1, offset: "src", len: 0, typ: NTI33554440, name: "src", sons: null}, 
 {kind: 1, offset: "width", len: 0, typ: NTI33554456, name: "width", sons: null}, 
 {kind: 1, offset: "type", len: 0, typ: NTI33554440, name: "type", sons: null}, 
 {kind: 1, offset: "vspace", len: 0, typ: NTI33554456, name: "vspace", sons: null}]};
-NTI620757031.node = NNI620757031;
-NTI620757031.base = NTI620757017;
-NTI620757030.base = NTI620757031;
-NTI620757140.base = NTI620757030;
-var NNI620757029 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "target", len: 0, typ: NTI33554440, name: "target", sons: null}, 
+NTI587202599.node = NNI587202599;
+NTI587202599.base = NTI587202585;
+NTI587202598.base = NTI587202599;
+NTI587202708.base = NTI587202598;
+var NNI587202597 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "target", len: 0, typ: NTI33554440, name: "target", sons: null}, 
 {kind: 1, offset: "text", len: 0, typ: NTI33554440, name: "text", sons: null}, 
 {kind: 1, offset: "x", len: 0, typ: NTI33554456, name: "x", sons: null}, 
 {kind: 1, offset: "y", len: 0, typ: NTI33554456, name: "y", sons: null}]};
-NTI620757029.node = NNI620757029;
-NTI620757029.base = NTI620757017;
-NTI620757028.base = NTI620757029;
-NTI620757141.base = NTI620757028;
-var NNI620757176 = {kind: 1, offset: "then", len: 0, typ: NTI620757177, name: "then", sons: null};
-NTI620757176.node = NNI620757176;
-NTI620757089.base = NTI620757176;
-var NNI620757179 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ready", len: 0, typ: NTI620757089, name: "ready", sons: null}, 
-{kind: 1, offset: "onloadingdone", len: 0, typ: NTI620757180, name: "onloadingdone", sons: null}]};
-NTI620757179.node = NNI620757179;
-NTI620757090.base = NTI620757179;
-var NNI620757015 = {kind: 2, len: 23, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "activeElement", len: 0, typ: NTI620757016, name: "activeElement", sons: null}, 
-{kind: 1, offset: "documentElement", len: 0, typ: NTI620757016, name: "documentElement", sons: null}, 
+NTI587202597.node = NNI587202597;
+NTI587202597.base = NTI587202585;
+NTI587202596.base = NTI587202597;
+NTI587202709.base = NTI587202596;
+var NNI587202744 = {kind: 1, offset: "then", len: 0, typ: NTI587202745, name: "then", sons: null};
+NTI587202744.node = NNI587202744;
+NTI587202657.base = NTI587202744;
+var NNI587202747 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ready", len: 0, typ: NTI587202657, name: "ready", sons: null}, 
+{kind: 1, offset: "onloadingdone", len: 0, typ: NTI587202748, name: "onloadingdone", sons: null}]};
+NTI587202747.node = NNI587202747;
+NTI587202658.base = NTI587202747;
+var NNI587202583 = {kind: 2, len: 23, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "activeElement", len: 0, typ: NTI587202584, name: "activeElement", sons: null}, 
+{kind: 1, offset: "documentElement", len: 0, typ: NTI587202584, name: "documentElement", sons: null}, 
 {kind: 1, offset: "alinkColor", len: 0, typ: NTI33554440, name: "alinkColor", sons: null}, 
 {kind: 1, offset: "bgColor", len: 0, typ: NTI33554440, name: "bgColor", sons: null}, 
-{kind: 1, offset: "body", len: 0, typ: NTI620757016, name: "body", sons: null}, 
+{kind: 1, offset: "body", len: 0, typ: NTI587202584, name: "body", sons: null}, 
 {kind: 1, offset: "charset", len: 0, typ: NTI33554440, name: "charset", sons: null}, 
 {kind: 1, offset: "cookie", len: 0, typ: NTI33554440, name: "cookie", sons: null}, 
 {kind: 1, offset: "defaultCharset", len: 0, typ: NTI33554440, name: "defaultCharset", sons: null}, 
 {kind: 1, offset: "fgColor", len: 0, typ: NTI33554440, name: "fgColor", sons: null}, 
-{kind: 1, offset: "head", len: 0, typ: NTI620757016, name: "head", sons: null}, 
+{kind: 1, offset: "head", len: 0, typ: NTI587202584, name: "head", sons: null}, 
 {kind: 1, offset: "lastModified", len: 0, typ: NTI33554440, name: "lastModified", sons: null}, 
 {kind: 1, offset: "linkColor", len: 0, typ: NTI33554440, name: "linkColor", sons: null}, 
 {kind: 1, offset: "referrer", len: 0, typ: NTI33554440, name: "referrer", sons: null}, 
 {kind: 1, offset: "title", len: 0, typ: NTI33554440, name: "title", sons: null}, 
 {kind: 1, offset: "URL", len: 0, typ: NTI33554440, name: "URL", sons: null}, 
 {kind: 1, offset: "vlinkColor", len: 0, typ: NTI33554440, name: "vlinkColor", sons: null}, 
-{kind: 1, offset: "anchors", len: 0, typ: NTI620757136, name: "anchors", sons: null}, 
-{kind: 1, offset: "forms", len: 0, typ: NTI620757137, name: "forms", sons: null}, 
-{kind: 1, offset: "images", len: 0, typ: NTI620757138, name: "images", sons: null}, 
-{kind: 1, offset: "applets", len: 0, typ: NTI620757139, name: "applets", sons: null}, 
-{kind: 1, offset: "embeds", len: 0, typ: NTI620757140, name: "embeds", sons: null}, 
-{kind: 1, offset: "links", len: 0, typ: NTI620757141, name: "links", sons: null}, 
-{kind: 1, offset: "fonts", len: 0, typ: NTI620757090, name: "fonts", sons: null}]};
-NTI620757015.node = NNI620757015;
-NTI620757015.base = NTI620757013;
-NTI620757014.base = NTI620757015;
-NTI620757040.base = NTI620757041;
-var NNI620757013 = {kind: 2, len: 22, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "attributes", len: 0, typ: NTI620757133, name: "attributes", sons: null}, 
-{kind: 1, offset: "childNodes", len: 0, typ: NTI620757134, name: "childNodes", sons: null}, 
-{kind: 1, offset: "children", len: 0, typ: NTI620757135, name: "children", sons: null}, 
+{kind: 1, offset: "anchors", len: 0, typ: NTI587202704, name: "anchors", sons: null}, 
+{kind: 1, offset: "forms", len: 0, typ: NTI587202705, name: "forms", sons: null}, 
+{kind: 1, offset: "images", len: 0, typ: NTI587202706, name: "images", sons: null}, 
+{kind: 1, offset: "applets", len: 0, typ: NTI587202707, name: "applets", sons: null}, 
+{kind: 1, offset: "embeds", len: 0, typ: NTI587202708, name: "embeds", sons: null}, 
+{kind: 1, offset: "links", len: 0, typ: NTI587202709, name: "links", sons: null}, 
+{kind: 1, offset: "fonts", len: 0, typ: NTI587202658, name: "fonts", sons: null}]};
+NTI587202583.node = NNI587202583;
+NTI587202583.base = NTI587202581;
+NTI587202582.base = NTI587202583;
+NTI587202608.base = NTI587202609;
+var NNI587202581 = {kind: 2, len: 22, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "attributes", len: 0, typ: NTI587202701, name: "attributes", sons: null}, 
+{kind: 1, offset: "childNodes", len: 0, typ: NTI587202702, name: "childNodes", sons: null}, 
+{kind: 1, offset: "children", len: 0, typ: NTI587202703, name: "children", sons: null}, 
 {kind: 1, offset: "data", len: 0, typ: NTI33554440, name: "data", sons: null}, 
-{kind: 1, offset: "firstChild", len: 0, typ: NTI620757012, name: "firstChild", sons: null}, 
-{kind: 1, offset: "lastChild", len: 0, typ: NTI620757012, name: "lastChild", sons: null}, 
-{kind: 1, offset: "nextSibling", len: 0, typ: NTI620757012, name: "nextSibling", sons: null}, 
+{kind: 1, offset: "firstChild", len: 0, typ: NTI587202580, name: "firstChild", sons: null}, 
+{kind: 1, offset: "lastChild", len: 0, typ: NTI587202580, name: "lastChild", sons: null}, 
+{kind: 1, offset: "nextSibling", len: 0, typ: NTI587202580, name: "nextSibling", sons: null}, 
 {kind: 1, offset: "nodeName", len: 0, typ: NTI33554440, name: "nodeName", sons: null}, 
-{kind: 1, offset: "nodeType", len: 0, typ: NTI620757011, name: "nodeType", sons: null}, 
+{kind: 1, offset: "nodeType", len: 0, typ: NTI587202579, name: "nodeType", sons: null}, 
 {kind: 1, offset: "nodeValue", len: 0, typ: NTI33554440, name: "nodeValue", sons: null}, 
-{kind: 1, offset: "parentNode", len: 0, typ: NTI620757012, name: "parentNode", sons: null}, 
-{kind: 1, offset: "content", len: 0, typ: NTI620757012, name: "content", sons: null}, 
-{kind: 1, offset: "previousSibling", len: 0, typ: NTI620757012, name: "previousSibling", sons: null}, 
-{kind: 1, offset: "ownerDocument", len: 0, typ: NTI620757014, name: "ownerDocument", sons: null}, 
+{kind: 1, offset: "parentNode", len: 0, typ: NTI587202580, name: "parentNode", sons: null}, 
+{kind: 1, offset: "content", len: 0, typ: NTI587202580, name: "content", sons: null}, 
+{kind: 1, offset: "previousSibling", len: 0, typ: NTI587202580, name: "previousSibling", sons: null}, 
+{kind: 1, offset: "ownerDocument", len: 0, typ: NTI587202582, name: "ownerDocument", sons: null}, 
 {kind: 1, offset: "innerHTML", len: 0, typ: NTI33554440, name: "innerHTML", sons: null}, 
 {kind: 1, offset: "outerHTML", len: 0, typ: NTI33554440, name: "outerHTML", sons: null}, 
 {kind: 1, offset: "innerText", len: 0, typ: NTI33554440, name: "innerText", sons: null}, 
 {kind: 1, offset: "textContent", len: 0, typ: NTI33554440, name: "textContent", sons: null}, 
-{kind: 1, offset: "style", len: 0, typ: NTI620757040, name: "style", sons: null}, 
+{kind: 1, offset: "style", len: 0, typ: NTI587202608, name: "style", sons: null}, 
 {kind: 1, offset: "baseURI", len: 0, typ: NTI33554440, name: "baseURI", sons: null}, 
-{kind: 1, offset: "parentElement", len: 0, typ: NTI620757016, name: "parentElement", sons: null}, 
+{kind: 1, offset: "parentElement", len: 0, typ: NTI587202584, name: "parentElement", sons: null}, 
 {kind: 1, offset: "isConnected", len: 0, typ: NTI33554466, name: "isConnected", sons: null}]};
-NTI620757013.node = NNI620757013;
-var NNI620756997 = {kind: 2, len: 24, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "onabort", len: 0, typ: NTI620757092, name: "onabort", sons: null}, 
-{kind: 1, offset: "onblur", len: 0, typ: NTI620757093, name: "onblur", sons: null}, 
-{kind: 1, offset: "onchange", len: 0, typ: NTI620757094, name: "onchange", sons: null}, 
-{kind: 1, offset: "onclick", len: 0, typ: NTI620757095, name: "onclick", sons: null}, 
-{kind: 1, offset: "ondblclick", len: 0, typ: NTI620757096, name: "ondblclick", sons: null}, 
-{kind: 1, offset: "onerror", len: 0, typ: NTI620757097, name: "onerror", sons: null}, 
-{kind: 1, offset: "onfocus", len: 0, typ: NTI620757098, name: "onfocus", sons: null}, 
-{kind: 1, offset: "onkeydown", len: 0, typ: NTI620757099, name: "onkeydown", sons: null}, 
-{kind: 1, offset: "onkeypress", len: 0, typ: NTI620757100, name: "onkeypress", sons: null}, 
-{kind: 1, offset: "onkeyup", len: 0, typ: NTI620757101, name: "onkeyup", sons: null}, 
-{kind: 1, offset: "onload", len: 0, typ: NTI620757102, name: "onload", sons: null}, 
-{kind: 1, offset: "onmousedown", len: 0, typ: NTI620757103, name: "onmousedown", sons: null}, 
-{kind: 1, offset: "onmousemove", len: 0, typ: NTI620757104, name: "onmousemove", sons: null}, 
-{kind: 1, offset: "onmouseout", len: 0, typ: NTI620757105, name: "onmouseout", sons: null}, 
-{kind: 1, offset: "onmouseover", len: 0, typ: NTI620757106, name: "onmouseover", sons: null}, 
-{kind: 1, offset: "onmouseup", len: 0, typ: NTI620757107, name: "onmouseup", sons: null}, 
-{kind: 1, offset: "onreset", len: 0, typ: NTI620757108, name: "onreset", sons: null}, 
-{kind: 1, offset: "onselect", len: 0, typ: NTI620757109, name: "onselect", sons: null}, 
-{kind: 1, offset: "onstorage", len: 0, typ: NTI620757110, name: "onstorage", sons: null}, 
-{kind: 1, offset: "onsubmit", len: 0, typ: NTI620757111, name: "onsubmit", sons: null}, 
-{kind: 1, offset: "onunload", len: 0, typ: NTI620757112, name: "onunload", sons: null}, 
-{kind: 1, offset: "onloadstart", len: 0, typ: NTI620757113, name: "onloadstart", sons: null}, 
-{kind: 1, offset: "onprogress", len: 0, typ: NTI620757114, name: "onprogress", sons: null}, 
-{kind: 1, offset: "onloadend", len: 0, typ: NTI620757115, name: "onloadend", sons: null}]};
-NTI620756997.node = NNI620756997;
-NTI620756997.base = NTI33555083;
-NTI620757013.base = NTI620756997;
-NTI620757012.base = NTI620757013;
+NTI587202581.node = NNI587202581;
+var NNI587202565 = {kind: 2, len: 24, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "onabort", len: 0, typ: NTI587202660, name: "onabort", sons: null}, 
+{kind: 1, offset: "onblur", len: 0, typ: NTI587202661, name: "onblur", sons: null}, 
+{kind: 1, offset: "onchange", len: 0, typ: NTI587202662, name: "onchange", sons: null}, 
+{kind: 1, offset: "onclick", len: 0, typ: NTI587202663, name: "onclick", sons: null}, 
+{kind: 1, offset: "ondblclick", len: 0, typ: NTI587202664, name: "ondblclick", sons: null}, 
+{kind: 1, offset: "onerror", len: 0, typ: NTI587202665, name: "onerror", sons: null}, 
+{kind: 1, offset: "onfocus", len: 0, typ: NTI587202666, name: "onfocus", sons: null}, 
+{kind: 1, offset: "onkeydown", len: 0, typ: NTI587202667, name: "onkeydown", sons: null}, 
+{kind: 1, offset: "onkeypress", len: 0, typ: NTI587202668, name: "onkeypress", sons: null}, 
+{kind: 1, offset: "onkeyup", len: 0, typ: NTI587202669, name: "onkeyup", sons: null}, 
+{kind: 1, offset: "onload", len: 0, typ: NTI587202670, name: "onload", sons: null}, 
+{kind: 1, offset: "onmousedown", len: 0, typ: NTI587202671, name: "onmousedown", sons: null}, 
+{kind: 1, offset: "onmousemove", len: 0, typ: NTI587202672, name: "onmousemove", sons: null}, 
+{kind: 1, offset: "onmouseout", len: 0, typ: NTI587202673, name: "onmouseout", sons: null}, 
+{kind: 1, offset: "onmouseover", len: 0, typ: NTI587202674, name: "onmouseover", sons: null}, 
+{kind: 1, offset: "onmouseup", len: 0, typ: NTI587202675, name: "onmouseup", sons: null}, 
+{kind: 1, offset: "onreset", len: 0, typ: NTI587202676, name: "onreset", sons: null}, 
+{kind: 1, offset: "onselect", len: 0, typ: NTI587202677, name: "onselect", sons: null}, 
+{kind: 1, offset: "onstorage", len: 0, typ: NTI587202678, name: "onstorage", sons: null}, 
+{kind: 1, offset: "onsubmit", len: 0, typ: NTI587202679, name: "onsubmit", sons: null}, 
+{kind: 1, offset: "onunload", len: 0, typ: NTI587202680, name: "onunload", sons: null}, 
+{kind: 1, offset: "onloadstart", len: 0, typ: NTI587202681, name: "onloadstart", sons: null}, 
+{kind: 1, offset: "onprogress", len: 0, typ: NTI587202682, name: "onprogress", sons: null}, 
+{kind: 1, offset: "onloadend", len: 0, typ: NTI587202683, name: "onloadend", sons: null}]};
+NTI587202565.node = NNI587202565;
+NTI587202565.base = NTI33555083;
+NTI587202581.base = NTI587202565;
+NTI587202580.base = NTI587202581;
 var NNI1140850691 = {kind: 2, offset: 0, typ: null, name: null, len: 209, sons: {"0": {kind: 1, offset: 0, typ: NTI1140850691, name: "#text", len: 0, sons: null}, 
 "1": {kind: 1, offset: 1, typ: NTI1140850691, name: "#int", len: 0, sons: null}, 
 "2": {kind: 1, offset: 2, typ: NTI1140850691, name: "#bool", len: 0, sons: null}, 
@@ -986,13 +987,13 @@ var NNI1140850790 = {kind: 2, len: 10, offset: 0, typ: null, name: null, sons: [
 {kind: 1, offset: "attrs", len: 0, typ: NTI1140850792, name: "attrs", sons: null}, 
 {kind: 1, offset: "events", len: 0, typ: NTI1140850785, name: "events", sons: null}, 
 {kind: 1, offset: "style", len: 0, typ: NTI1191182373, name: "style", sons: null}, 
-{kind: 1, offset: "dom", len: 0, typ: NTI620757012, name: "dom", sons: null}]};
+{kind: 1, offset: "dom", len: 0, typ: NTI587202580, name: "dom", sons: null}]};
 NTI1140850790.node = NNI1140850790;
 NTI1140850790.base = NTI33555083;
 NTI1140850787.base = NTI1140850790;
 var NNI1107296262 = {kind: 2, len: 5, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "k", len: 0, typ: NTI1107296261, name: "k", sons: null}, 
-{kind: 1, offset: "parent", len: 0, typ: NTI620757012, name: "parent", sons: null}, 
-{kind: 1, offset: "current", len: 0, typ: NTI620757012, name: "current", sons: null}, 
+{kind: 1, offset: "parent", len: 0, typ: NTI587202580, name: "parent", sons: null}, 
+{kind: 1, offset: "current", len: 0, typ: NTI587202580, name: "current", sons: null}, 
 {kind: 1, offset: "newNode", len: 0, typ: NTI1140850787, name: "newNode", sons: null}, 
 {kind: 1, offset: "oldNode", len: 0, typ: NTI1140850787, name: "oldNode", sons: null}]};
 NTI1107296262.node = NNI1107296262;
@@ -1011,7 +1012,7 @@ var NNI452984871 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{k
 {kind: 1, offset: "Field4", len: 0, typ: NTI452984881, name: "Field4", sons: null}, 
 {kind: 1, offset: "Field5", len: 0, typ: NTI452984881, name: "Field5", sons: null}]};
 NTI452984871.node = NNI452984871;
-                      var helper_637534262 = new Uint32Array([3198944359, 3630892171]);
+                      var helper_620757046 = new Uint32Array([3198944359, 3630892171]);
 
 function setConstr() {
         var result = {};
@@ -1199,7 +1200,7 @@ function toJSStr(s_33556807) {
   return result_33556808;
 
 }
-            var Figures_603980029 = [{Field0: makeNimstrLit("Populus"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A crowd"), Field3: makeNimstrLit("Stability"), Field4: makeNimstrLit("Populus is strengthened in the fourth house and weakened in the tenth."), Field5: makeNimstrLit("Sea green or dark russet brown"), Field6: makeNimstrLit("Populus is a figure of dispersal and multiplicity, balancing the focused movement of Via. Its astrological symbols, the Moon, Cancer and Water, are all images of passivity, reflection, and indirect action; they represent patterns of experience that have no direction or focus of their own, but simply respond to energies coming from outside. The elemental structure of the figure shows all four elements as passive and latent, but the receptive nature of Water comes closest to expressing the figure\'s nature in elemental terms. Like a crowd, Populus has no particular motion or direction until it recieves the energy of another figure. Its stability is a function of sheer inertia, rather than of any special strength of its own."), Field7: makeNimstrLit("Populus in a geomantic chart represents a gathering or assembly of people, or a large amount of anything else. A passive figure that takes on the qualities of the figures that interact with it, Populus tends to be fortunate with fortunate figures and unfortunate with unfortunate ones. Still it is usually favorable in matters that benefit from quiet reflection, and unfavorable in matters demanding focused action."), Field8: makeNimstrLit("Cancer"), Field9: makeNimstrLit("Moon"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Water"), Field12: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Via"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A road"), Field3: makeNimstrLit("Change"), Field4: makeNimstrLit("Via is strengthened in the fourth house and weakened in the tenth"), Field5: makeNimstrLit("White, flecked with blue"), Field6: makeNimstrLit("Via is a figure of directed movement and change, balancing the diffuse and formless stability of Populus. These two figures, like Fortuna Major and Fortuna Minor, share the same astrological symbol but have opposite elemental structures. Here, however, the opposition is between complete passivity and complete activity. With all four elements active, Via represents the elements in a constant state of change, each giving way to the next in an endless cycle. There is, however, a certain passive, reflective quality shared by these most opposite of figures. Despite the common figure of speech, roads actually go nowhere; it is the trave\xC3\xA7ers who follow them that go somewhere, leaving more of the road behind with each step."), Field7: makeNimstrLit("Via in a geomantic reading represents change in all its forms, and favors all questions in which change is an advantage. It is favorable for journeys of all kinds, real and metaphorical, but unfavorable whenever leaving things unchanged is desirable."), Field8: makeNimstrLit("Cancer"), Field9: makeNimstrLit("Moon"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Water"), Field12: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Conjunctio"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A crossroads"), Field3: makeNimstrLit("Interaction"), Field4: makeNimstrLit("Conjunctio is strengthened in the sixth house and weakened in the twelfth."), Field5: makeNimstrLit("Purple or pale gray, sometimes black speckled with blue"), Field6: makeNimstrLit("Conjunctio is a figure of contact and union, balancing the isolated and limited figure Carcer. It represents the union of opposites on all levels and the resulting potentials for change. Here the astrological symbolism of Mercury, Virgo, and Earth ties into ancient magical images of fertility and the elemental structure is open to energy in the Fire line and to manifestation in the line of Earth. Air and Water, the active elements in this figure, are thought of in magical philosophy as middle realms uniting the two ends of the elemental spectrum; Air, the inner element of this figure, also has a role here as a symbol of interaction. Like a crossroads, Conjunctio forms a context in which movement can lead in unexpected directions, and bring energies and people on highly different trajectories into interaction."), Field7: makeNimstrLit("Conjunctio in a geomantic chart shows the presence of a combination of forces. It tends to be favorable or unfavorable depending on other figures and circumstances, but is reliably favorable in any question about recovering things lost or stolen. It is traditionally a figure of temperance. It is favorable for matters in which things need to come into contact, and unfavorable for any situation that calls for solitude, separation, and clarification."), Field8: makeNimstrLit("Virgo"), Field9: makeNimstrLit("Mercury"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Air"), Field12: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Carcer"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("An enclosure"), Field3: makeNimstrLit("Isolation"), Field4: makeNimstrLit("Carcer is strengthened in the tenth house and weakened in the fourth"), Field5: makeNimstrLit("White, russet, or dun (pale brown)"), Field6: makeNimstrLit("Carcer is a figure of restriction and isolation, balancing the open and interactive nature of Conjunctio. This pattern of meanings has two sides, for restriction can be a source of strength and focus as well as a limitation. This is shown in its astrological symbolism, for Saturn, Capricorn, and Earth establish an imagery of rigidity and fixation, but also one of energy expended in productive work. The elemental structure develops the same theme; Fire and Earth represent energy and material expression, but they also remain at the two ends of the elemental spectrum, unable to come into contact with each other because neither of the middle elements are there to bridge the gap."), Field7: makeNimstrLit("Carcer in a geomantic chart represents solidity, restriction, binding, or even imprisonment. It always portends delay. In financial questions, it can stand for greed. It is unfavorable in most questions, but favors anything involving stability, security, and isolation."), Field8: makeNimstrLit("Capricorn"), Field9: makeNimstrLit("Saturn"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Earth"), Field12: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Fortuna Major"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A valley through which a river flows"), Field3: makeNimstrLit("Power"), Field4: makeNimstrLit("Fortuna Major is trengthened in the fifth house and weakened in the eleventh"), Field5: makeNimstrLit("Green, yellow, or gold"), Field6: makeNimstrLit("Fortuna Major is a figure of inner strangth and resulting success, balancing the outer strength of Fortuna Minor. Its astrological symbols, the Sun, Leo, and Fire, are standard metaphorical images for strength and vitory, but its elemental structure leads in some unexpected directions. Fire and Air are passive in this figure, with Water and Earth active, and the inner element is Earth; like the valley that is its image, Fortuna Major represents a natural shape of events that brings success without apparent effort. Though we too often think of success as a matter of vigorous action and struggle, real success comes about because our inner life is reflected in our outer circumstances (as it always is, for good or ill) without any conscious effort at all. This is one of the central secrets of magic."), Field7: makeNimstrLit("Fortuna Major in a geomantic chart foretells great good fortune, although the way there may be difficult at times. It is a figure of power and success that unfolds naturally rather than having to be forced, and is especially favorable whenever the querent wants to win something. It often predicts a difficult beginning leading to a very good result. Traditionally it is a figure of nobility. Fortuna Major is favorable for nearly all questions except those involving escaping from a difficult situation. the Fortuna Major response to difficulty is to press ahead, and make lemonade out of life\'s lemons."), Field8: makeNimstrLit("Leo"), Field9: makeNimstrLit("Sun"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Earth"), Field12: makeNimstrLit("Fire")}, {Field0: makeNimstrLit("Fortuna Minor"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A mountain with a staff atop it"), Field3: makeNimstrLit("Swiftness"), Field4: makeNimstrLit("Fortuna Minor is strengthened in the fifth house and weakened in the eleventh"), Field5: [], Field6: makeNimstrLit("Fortuna Minor is a figure of outer strength and success, balancing the inner strength of fortuna Major. These two figures have the same astrological symbolism but the opposite elemental structure; they represent the same kind of experience\xE2\x80\x94success\xE2\x80\x94but have sharply different sources. Fortuna Minor represents success that is brought about by outside help or circumstances, rather than by the innate strength symbolized by Fortuna Major. Easily gained, the success of Fortuna Minor is just as easily lost, and it produces the best results in situations where rapid change is expected or desired. These factors are echoed in the symbolism by an unexpected shift in the outer element; Leo is a fiery sign, but Fortuna Minor is usually given the outer element of Air, representing the role of outside help in this figure as well as the instability of the results."), Field7: makeNimstrLit("Fortuna Minor in a geomantic reading represents unstable success. It is traditionally a figure of inconstancy, and also of generosity, and warns that what you gain may not stay with you for long. It is very favorable whenever you want to proceed quickly, and unfavorable for matters in which fickleness or instability is a problem."), Field8: makeNimstrLit("Leo"), Field9: makeNimstrLit("Sun"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Fire"), Field12: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Acquisitio"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A bag held mouth upward, as though to take something in"), Field3: makeNimstrLit("Gain"), Field4: makeNimstrLit("Acquisition is strengthened in the ninth house and weakened in the third"), Field5: makeNimstrLit("Red, yellow, or green"), Field6: makeNimstrLit("Acquisitio is a figure of gain and success, balancing the imagery of loss in Amissio in its astrological symbolism, Jupiter is the traditional planet of good fortune, while Sagittarius, and Fire represent directed towards goals. Its inner element and elemental structure stress that real gain of any kind exists only in a web of interaction, and seeks productive manifestation; all the money in the world is useless if no one will accept it in exchange, or if it simply piles up untouched. The elemental structure also suggests the far from minor point that material gain, despite all its potential for interaction and material wealth, does not necessarily add up to the fulfillment of one\'s desires or the deepening of one\'s inner life."), Field7: makeNimstrLit("Acquisitio in a geomantic reading foretells success, profit, and gain, and often means that something desired is within your grasp. Traditionally, Acquisitio is a figure of prudence. It represents gain in every sense, and favors any situation where gaining something is desired, It is unfavorable whenever loss is desired, such as illness, facing things you fear, and getting out of difficult situations."), Field8: makeNimstrLit("Sagittarius"), Field9: makeNimstrLit("Jupiter"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Air"), Field12: makeNimstrLit("Fire")}, {Field0: makeNimstrLit("Amissio"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A bag held mouth downward, letting the contents fall out"), Field3: makeNimstrLit("Loss"), Field4: makeNimstrLit("Amissio is strengthened in the second house and weakened in the eighth"), Field5: makeNimstrLit("White,, fleckled with citrine (greenish yellow)"), Field6: makeNimstrLit("Amissio is a figure of transience and loss, balancing Acquisitio\'s imagery of gain. Central to its meaning is a recognition of the hard truth that all things pass away. Its astrological symbols, Venus, Taurus, and Earth point toward desire for material things as one of the classic examples of impermanence in human life. Both the desire and the thing desired are certain to pass away in time, and so the experience of desire brings with it the certainty that the experience of loss will follow. Similarly, the elemental structure of the figure has Fire and Water alone; without Air to join them together or Earth to bring them into manifestation, these two opposed elements fly apart, and any contact between them is impermanent and without result."), Field7: makeNimstrLit("In a geomantic reading Amissio stands for loss in every sense, positive or negative, from losing your heart to losing your money. It often represents something outside one\'s grasp. Traditionally this is also a figure of generosity. It is favorable in any matter where loss is what you desire; this includes such things as love and sexuality (losing your heart), recovery from sickness (losing your illness), facing things you fear (losing your fear), and getting out of difficult situations (losing your problems). It is unfavorable whenever you hope to gain something from the situation."), Field8: makeNimstrLit("Taurus"), Field9: makeNimstrLit("Venus"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Fire"), Field12: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Tristitia"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A pit, a stake driven downward"), Field3: makeNimstrLit("Sorrow"), Field4: makeNimstrLit("Tristitia is strengthened in the eleventh house and weakened in the fifth"), Field5: makeNimstrLit("Taway or sky blue"), Field6: makeNimstrLit("Tristitia ia a figure of sorrow and difficulty, balancing the joyous symbolism of Laetitia. Its astrological symbolism is complex; Saturn has traditional links to ideas of pain and trouble, and these are reinforced by turbulent Air, but Aquarius carries meanings of creativity and benevolence that may seem hard to relate to the symbolism of Saturn. The elemental structure and inner element stress Earth to the exclusion of all else, and this may also seem hard to connect to the other astrological symbols. The deeper level of meaning where these paradoxes resolve is simply that suffering is the one sure source of wisdom; too often, it\'s only when we are \"stuck\", caught up in a painful situation we do not know how to resolve, that we learn to face the world in more creative ways."), Field7: makeNimstrLit("In a geomantic reading, Tristitia stands for any downward movement. Lowered spirits (sorrow), lowered vitality (illness), and lowered expectations (failure) all fall within its ambit, though it can also mean stability and solidity, the sinking of roots deep into the ground. Unfavorable in most matters, it is favorable for questions involving stabilty and patience. It is very favorable in all questions dealing with building and the Earth , where its quality of \"stuckness\" or permanence is wanted and for any situation in which a secret needs to be kept."), Field8: makeNimstrLit("Aquarius"), Field9: makeNimstrLit("Saturn"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Earth"), Field12: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Laetitia"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A tower"), Field3: makeNimstrLit("Joy"), Field4: makeNimstrLit("Laetitia is strengthened in the twelfth house and weakened in the sixth"), Field5: makeNimstrLit("Glittering pale green"), Field6: makeNimstrLit("Laetitia is a figure of joy, balancing the harsh symbolism of Tristitia. It represents happiness of every kind and level, from the most momentary of passing pleasures to the highest reaches of human experience. In its astrological symbolism, Jupiter has its usual role as the planet of good dortune, and watery Pisces and the outer element, Water, represent the emotional life, the context in which joy is usually experienced. The inner element and the elemental structure generally, however, stress the role of energy in the attainment of happyness; it is by way if the free flow of creative force, in ourselves as in the universe, that joy comes into being."), Field7: makeNimstrLit("Laetitia in a geomantic reading is a very positive figure representing any form of ascent. It means upward movement, which is favorable in a querent\'s career (success), emotional state (happiness), or vitality (health). It is traditionally a figure of fortitude, and is thus favorable in most questions, but is unfavorable for any question in which stability and deep roots are needed, and very unfavorable when a secret needs to be kept."), Field8: makeNimstrLit("Pisces"), Field9: makeNimstrLit("Jupiter"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Fire"), Field12: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Rubeus"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A goblet turned upside down"), Field3: makeNimstrLit("Passion"), Field4: makeNimstrLit("Rubeus is strengthened in the eighth house and weak in the second"), Field5: makeNimstrLit("Red, flecked or streaked with brown"), Field6: makeNimstrLit("Rubeus is a figure of passion and involvement in life, balancing the abstract detachment of Albus. Its astrological symbols, Mars, Scorpio, and Water, are the standard images of passionate energy in the symbolic language of the heavens. Its inner element and the one active part of its elemental structure, however, are both Air. The lesson here is that passionate involvement in the world comes from focusing on how we relate to others and to the world itself. At its worst, this too easily becomes a blind intoxication with appearances, but it also has the potential to open way to a joyous participation in the experience of life."), Field7: makeNimstrLit("Rubeus in a geomantic chart is a challenging figure that stands for passion, pleasure, fierceness, and violence. Old books on geomancy describe it as \"good in all that is evil and evil in all that is good.\" It is unfavorable in most situations, but favorable in questions involving sexuality, intoxicants, and violence."), Field8: makeNimstrLit("Scorpio"), Field9: makeNimstrLit("Mars"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Air"), Field12: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Albus"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A goblet set upright"), Field3: makeNimstrLit("Peace"), Field4: makeNimstrLit("Albus is strengthened in the third house and weakened in the ninth"), Field5: makeNimstrLit("Brilliant white, flecked with red"), Field6: makeNimstrLit("Albus is a figure of peace and detachment, balancing the passionate figure Rubeus its astrological symbols, Mercury, Gemini and Air, point to the way in which detachment has most often expressed itself in the Western world\xE2\x80\x94the way of the intellect, which moves away from direct experience into abstract ideas. More deeply, though, Albus is a figure of Water, which is its only active line and also its inner element; it represents awareness caught up wholly in its own inner life and turned away from the action in the outer world of experience. In its highest form, this inward focus can lead the attentive mind to transcendence by ways of mysticism, but it can also become a retreat from life that ends in sterility, isolation, and madness."), Field7: makeNimstrLit("Albus in a geomantic chart stands for peace, wisdom, and purity; it is generally a favorable figure, but often weak, and where it occurs, you may need to seek help from other people. It is traditionally a figure od chastity. Albus favors quiet progress and the use of intelligence, and is favorable in most business and financial questions, it is also favorable for beginnings. It is unfavorable in matters requiring courage and energy, or in any situation involving conflict or disruptive change."), Field8: makeNimstrLit("Gemini"), Field9: makeNimstrLit("Mercury"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Water"), Field12: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Puella"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A mirror; a female figure with exagerrated breasts"), Field3: makeNimstrLit("Harmony"), Field4: makeNimstrLit("Puella is strengthened in the seventh house and weakened in the first"), Field5: makeNimstrLit("White, flecked with green"), Field6: makeNimstrLit("Puella is a figure of female sexual energy, balancing the masculine figure Puer. Puella is balanced and harmonious, but ambivalent. Its astrological symbols, Venus, Libra amd Air, suggest polar opposites held together in harmony and interaction by way of love, while its ruling inner element Water suggests that its energies are turned within, into a reflective inner life. The elemental structure is the key to this figure. with purpose and energy, inner receptivity, and the stability of a material basis, Puella lacks only relationship and interaction to be complete. It seeks to unite with others, where its opposite Puer seeks only to be recieved\xE2\x80\x94a distinction that has more than a little to say about the complexity of relationships between the sexes."), Field7: makeNimstrLit("Puella in a geomantic reading stands for harmony and happiness that may not last indefinitely; it is a favorable figure in most questions, but fickle. It is especially favorable for questions involving love and relationship, and brings a positive answer to any question involving short-term happiness. Because of its fickleness, however, it is infavorable in any situation where permanence is wanted."), Field8: makeNimstrLit("Libra"), Field9: makeNimstrLit("Venus"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Water"), Field12: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Puer"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A sword; a male figure with exaggerated testicles"), Field3: makeNimstrLit("Energy"), Field4: makeNimstrLit("Puer is strengthened in the first house and weakened in the seventh"), Field5: makeNimstrLit("White, flecked with red"), Field6: makeNimstrLit("Puer is a figure of male sexual energy, balancing the feminine figure Puella. Unstable and forceful, it represents conflict, sudden change, and transformation, with all the constructive and destructive aspects these imply. Its astrological symbolism, Mars, Aries, and Fire, carries forward this pattern of meaning. Its elemental lines and inner element, by contrast, point to a deeper level of interpretation: Puer posseses energy and purpose, interactions with others, and a material expression, but no receptive inner life. All the aspects of its nature are projected outward into the world of experience, as an act of creation or a source of delusion. Like a young warrior riding forth on a quest, it carries the spear of Fire, the sword of Air, and the disk or shield of Earth, but must seek the cup of Water elsewhere\xE2\x80\x94an image that has more than a little to do with the inner meaning of the legendary quest for the Holy Grail."), Field7: makeNimstrLit("Puer in a geomantic reading stands for passionate energy force, seeking, and sudden change are desirable, Puer can be favorable, though even there it can be problematic due to its unthinking nature. It is always unfavorable in matters where stability, prudence, and maturity are advantages."), Field8: makeNimstrLit("Aries"), Field9: makeNimstrLit("Mars"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Air"), Field12: makeNimstrLit("Fire")}, {Field0: makeNimstrLit("Caput Draconis"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("A doorway with footprints leading toward it"), Field3: makeNimstrLit("Beginning"), Field4: makeNimstrLit("Caput Draconis is strengthened in the sixth house and weakened in the twelfth"), Field5: makeNimstrLit("White, flecked with citrine"), Field6: makeNimstrLit("Caput Draconis is a figure of opportunities and beginnings, balancing Cauda Draconis\'s symbolism of endings. As the geomantic equivalent of the north or ascending node of the Moon, Caput Draconis shares much of the same focus on drastic change as Cauda, but the north node\xE2\x80\x94the point at which the Moon crosses the Sun\'s path into the northern heavens\xE2\x80\x94shares some of the symbolism of Venus and Jupiter, the two benefics or positive forces in traditional astrology. This figure thus represents the change for the better, and is a particularly positive sign for beginnings. Earth, which is both its inner and outer element, and its elemental structure generally suggest fertile ground, needing only the energy of the seed and sunlight; still, much depends on the seed that is planted there."), Field7: makeNimstrLit("In a geomantic reading, Caput Draconis represents beginnings and new possibilities. It tends to vary in meaning with its company, becoming more favorable with favorable figures and more unfavorable with unfavorable ones, but it often foretells a good result with some difficulty at the beginning. Caput Draconis is favorable in all matters having to do with beginnings, and unfavorable in questions where ending something is desirable."), Field8: makeNimstrLit("Virgo"), Field9: makeNimstrLit("North Node of the Moon"), Field10: makeNimstrLit("Stable"), Field11: makeNimstrLit("Earth"), Field12: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Cauda Draconis"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("A doorway with footprints leading away from it"), Field3: makeNimstrLit("Ending"), Field4: makeNimstrLit("Cauda Draconis is strengthened in the ninth house and weakened in the third"), Field5: makeNimstrLit("Green, white, dark crimson, or pale tawny brown"), Field6: makeNimstrLit("Cauda Draconis is a symbol of endings and completions, balancing the symbolism of beginnings in Caput Draconis. Its astrological symbolism is that of the south or descending node of the Moon\xE2\x80\x94the point at which the Moon crosses the sun\'s path to go into the southern heavens. This point has some of the same symbolism as Mars and Saturn, the two malefics or negative forces in traditional astrology, and so Cauda Draconis symbolizes disruptions, losses, and endings. Its inner and outer elements are both Fire; the elemental structure, which lacks only Earth, suggests a situation nearing completion and thus ripe for radical change."), Field7: makeNimstrLit("In a geomantic reading, Cauda Draconis represents ending, completion, and letting go of the past. A figure with a complex message, it brings good with evil and evil with good, but is traditionally a figure of generosity. It is favorable in any situation where something is coming to an end, but unfavorable for most other questions."), Field8: makeNimstrLit("Sagittarius"), Field9: makeNimstrLit("South Node of the Moon"), Field10: makeNimstrLit("Mobile"), Field11: makeNimstrLit("Fire"), Field12: makeNimstrLit("Fire")}];
+            var Figures_1023410447 = [{Field0: makeNimstrLit("Populus"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("::::"), Field3: makeNimstrLit("A crowd"), Field4: makeNimstrLit("Stability"), Field5: makeNimstrLit("Populus is strengthened in the fourth house and weakened in the tenth."), Field6: makeNimstrLit("Sea green or dark russet brown"), Field7: makeNimstrLit("Populus is a figure of dispersal and multiplicity, balancing the focused movement of Via. Its astrological symbols, the Moon, Cancer and Water, are all images of passivity, reflection, and indirect action; they represent patterns of experience that have no direction or focus of their own, but simply respond to energies coming from outside. The elemental structure of the figure shows all four elements as passive and latent, but the receptive nature of Water comes closest to expressing the figure\'s nature in elemental terms. Like a crowd, Populus has no particular motion or direction until it recieves the energy of another figure. Its stability is a function of sheer inertia, rather than of any special strength of its own."), Field8: makeNimstrLit("Populus in a geomantic chart represents a gathering or assembly of people, or a large amount of anything else. A passive figure that takes on the qualities of the figures that interact with it, Populus tends to be fortunate with fortunate figures and unfortunate with unfortunate ones. Still it is usually favorable in matters that benefit from quiet reflection, and unfavorable in matters demanding focused action."), Field9: makeNimstrLit("Cancer"), Field10: makeNimstrLit("Moon"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Water"), Field13: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Via"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("...."), Field3: makeNimstrLit("A road"), Field4: makeNimstrLit("Change"), Field5: makeNimstrLit("Via is strengthened in the fourth house and weakened in the tenth"), Field6: makeNimstrLit("White, flecked with blue"), Field7: makeNimstrLit("Via is a figure of directed movement and change, balancing the diffuse and formless stability of Populus. These two figures, like Fortuna Major and Fortuna Minor, share the same astrological symbol but have opposite elemental structures. Here, however, the opposition is between complete passivity and complete activity. With all four elements active, Via represents the elements in a constant state of change, each giving way to the next in an endless cycle. There is, however, a certain passive, reflective quality shared by these most opposite of figures. Despite the common figure of speech, roads actually go nowhere; it is the trave\xC3\xA7ers who follow them that go somewhere, leaving more of the road behind with each step."), Field8: makeNimstrLit("Via in a geomantic reading represents change in all its forms, and favors all questions in which change is an advantage. It is favorable for journeys of all kinds, real and metaphorical, but unfavorable whenever leaving things unchanged is desirable."), Field9: makeNimstrLit("Cancer"), Field10: makeNimstrLit("Moon"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Water"), Field13: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Conjunctio"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit(":..:"), Field3: makeNimstrLit("A crossroads"), Field4: makeNimstrLit("Interaction"), Field5: makeNimstrLit("Conjunctio is strengthened in the sixth house and weakened in the twelfth."), Field6: makeNimstrLit("Purple or pale gray, sometimes black speckled with blue"), Field7: makeNimstrLit("Conjunctio is a figure of contact and union, balancing the isolated and limited figure Carcer. It represents the union of opposites on all levels and the resulting potentials for change. Here the astrological symbolism of Mercury, Virgo, and Earth ties into ancient magical images of fertility and the elemental structure is open to energy in the Fire line and to manifestation in the line of Earth. Air and Water, the active elements in this figure, are thought of in magical philosophy as middle realms uniting the two ends of the elemental spectrum; Air, the inner element of this figure, also has a role here as a symbol of interaction. Like a crossroads, Conjunctio forms a context in which movement can lead in unexpected directions, and bring energies and people on highly different trajectories into interaction."), Field8: makeNimstrLit("Conjunctio in a geomantic chart shows the presence of a combination of forces. It tends to be favorable or unfavorable depending on other figures and circumstances, but is reliably favorable in any question about recovering things lost or stolen. It is traditionally a figure of temperance. It is favorable for matters in which things need to come into contact, and unfavorable for any situation that calls for solitude, separation, and clarification."), Field9: makeNimstrLit("Virgo"), Field10: makeNimstrLit("Mercury"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Air"), Field13: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Carcer"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit(".::."), Field3: makeNimstrLit("An enclosure"), Field4: makeNimstrLit("Isolation"), Field5: makeNimstrLit("Carcer is strengthened in the tenth house and weakened in the fourth"), Field6: makeNimstrLit("White, russet, or dun (pale brown)"), Field7: makeNimstrLit("Carcer is a figure of restriction and isolation, balancing the open and interactive nature of Conjunctio. This pattern of meanings has two sides, for restriction can be a source of strength and focus as well as a limitation. This is shown in its astrological symbolism, for Saturn, Capricorn, and Earth establish an imagery of rigidity and fixation, but also one of energy expended in productive work. The elemental structure develops the same theme; Fire and Earth represent energy and material expression, but they also remain at the two ends of the elemental spectrum, unable to come into contact with each other because neither of the middle elements are there to bridge the gap."), Field8: makeNimstrLit("Carcer in a geomantic chart represents solidity, restriction, binding, or even imprisonment. It always portends delay. In financial questions, it can stand for greed. It is unfavorable in most questions, but favors anything involving stability, security, and isolation."), Field9: makeNimstrLit("Capricorn"), Field10: makeNimstrLit("Saturn"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Earth"), Field13: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Fortuna Major"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("::.."), Field3: makeNimstrLit("A valley through which a river flows"), Field4: makeNimstrLit("Power"), Field5: makeNimstrLit("Fortuna Major is trengthened in the fifth house and weakened in the eleventh"), Field6: makeNimstrLit("Green, yellow, or gold"), Field7: makeNimstrLit("Fortuna Major is a figure of inner strangth and resulting success, balancing the outer strength of Fortuna Minor. Its astrological symbols, the Sun, Leo, and Fire, are standard metaphorical images for strength and vitory, but its elemental structure leads in some unexpected directions. Fire and Air are passive in this figure, with Water and Earth active, and the inner element is Earth; like the valley that is its image, Fortuna Major represents a natural shape of events that brings success without apparent effort. Though we too often think of success as a matter of vigorous action and struggle, real success comes about because our inner life is reflected in our outer circumstances (as it always is, for good or ill) without any conscious effort at all. This is one of the central secrets of magic."), Field8: makeNimstrLit("Fortuna Major in a geomantic chart foretells great good fortune, although the way there may be difficult at times. It is a figure of power and success that unfolds naturally rather than having to be forced, and is especially favorable whenever the querent wants to win something. It often predicts a difficult beginning leading to a very good result. Traditionally it is a figure of nobility. Fortuna Major is favorable for nearly all questions except those involving escaping from a difficult situation. the Fortuna Major response to difficulty is to press ahead, and make lemonade out of life\'s lemons."), Field9: makeNimstrLit("Leo"), Field10: makeNimstrLit("Sun"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Earth"), Field13: makeNimstrLit("Fire")}, {Field0: makeNimstrLit("Fortuna Minor"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("..::"), Field3: makeNimstrLit("A mountain with a staff atop it"), Field4: makeNimstrLit("Swiftness"), Field5: makeNimstrLit("Fortuna Minor is strengthened in the fifth house and weakened in the eleventh"), Field6: makeNimstrLit("Gold or yellow"), Field7: makeNimstrLit("Fortuna Minor is a figure of outer strength and success, balancing the inner strength of fortuna Major. These two figures have the same astrological symbolism but the opposite elemental structure; they represent the same kind of experience\xE2\x80\x94success\xE2\x80\x94but have sharply different sources. Fortuna Minor represents success that is brought about by outside help or circumstances, rather than by the innate strength symbolized by Fortuna Major. Easily gained, the success of Fortuna Minor is just as easily lost, and it produces the best results in situations where rapid change is expected or desired. These factors are echoed in the symbolism by an unexpected shift in the outer element; Leo is a fiery sign, but Fortuna Minor is usually given the outer element of Air, representing the role of outside help in this figure as well as the instability of the results."), Field8: makeNimstrLit("Fortuna Minor in a geomantic reading represents unstable success. It is traditionally a figure of inconstancy, and also of generosity, and warns that what you gain may not stay with you for long. It is very favorable whenever you want to proceed quickly, and unfavorable for matters in which fickleness or instability is a problem."), Field9: makeNimstrLit("Leo"), Field10: makeNimstrLit("Sun"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Fire"), Field13: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Acquisitio"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit(":.:."), Field3: makeNimstrLit("A bag held mouth upward, as though to take something in"), Field4: makeNimstrLit("Gain"), Field5: makeNimstrLit("Acquisition is strengthened in the ninth house and weakened in the third"), Field6: makeNimstrLit("Red, yellow, or green"), Field7: makeNimstrLit("Acquisitio is a figure of gain and success, balancing the imagery of loss in Amissio in its astrological symbolism, Jupiter is the traditional planet of good fortune, while Sagittarius, and Fire represent directed towards goals. Its inner element and elemental structure stress that real gain of any kind exists only in a web of interaction, and seeks productive manifestation; all the money in the world is useless if no one will accept it in exchange, or if it simply piles up untouched. The elemental structure also suggests the far from minor point that material gain, despite all its potential for interaction and material wealth, does not necessarily add up to the fulfillment of one\'s desires or the deepening of one\'s inner life."), Field8: makeNimstrLit("Acquisitio in a geomantic reading foretells success, profit, and gain, and often means that something desired is within your grasp. Traditionally, Acquisitio is a figure of prudence. It represents gain in every sense, and favors any situation where gaining something is desired, It is unfavorable whenever loss is desired, such as illness, facing things you fear, and getting out of difficult situations."), Field9: makeNimstrLit("Sagittarius"), Field10: makeNimstrLit("Jupiter"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Air"), Field13: makeNimstrLit("Fire")}, {Field0: makeNimstrLit("Amissio"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit(".:.:"), Field3: makeNimstrLit("A bag held mouth downward, letting the contents fall out"), Field4: makeNimstrLit("Loss"), Field5: makeNimstrLit("Amissio is strengthened in the second house and weakened in the eighth"), Field6: makeNimstrLit("White,, fleckled with citrine (greenish yellow)"), Field7: makeNimstrLit("Amissio is a figure of transience and loss, balancing Acquisitio\'s imagery of gain. Central to its meaning is a recognition of the hard truth that all things pass away. Its astrological symbols, Venus, Taurus, and Earth point toward desire for material things as one of the classic examples of impermanence in human life. Both the desire and the thing desired are certain to pass away in time, and so the experience of desire brings with it the certainty that the experience of loss will follow. Similarly, the elemental structure of the figure has Fire and Water alone; without Air to join them together or Earth to bring them into manifestation, these two opposed elements fly apart, and any contact between them is impermanent and without result."), Field8: makeNimstrLit("In a geomantic reading Amissio stands for loss in every sense, positive or negative, from losing your heart to losing your money. It often represents something outside one\'s grasp. Traditionally this is also a figure of generosity. It is favorable in any matter where loss is what you desire; this includes such things as love and sexuality (losing your heart), recovery from sickness (losing your illness), facing things you fear (losing your fear), and getting out of difficult situations (losing your problems). It is unfavorable whenever you hope to gain something from the situation."), Field9: makeNimstrLit("Taurus"), Field10: makeNimstrLit("Venus"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Fire"), Field13: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Tristitia"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit(":::."), Field3: makeNimstrLit("A pit, a stake driven downward"), Field4: makeNimstrLit("Sorrow"), Field5: makeNimstrLit("Tristitia is strengthened in the eleventh house and weakened in the fifth"), Field6: makeNimstrLit("Taway or sky blue"), Field7: makeNimstrLit("Tristitia ia a figure of sorrow and difficulty, balancing the joyous symbolism of Laetitia. Its astrological symbolism is complex; Saturn has traditional links to ideas of pain and trouble, and these are reinforced by turbulent Air, but Aquarius carries meanings of creativity and benevolence that may seem hard to relate to the symbolism of Saturn. The elemental structure and inner element stress Earth to the exclusion of all else, and this may also seem hard to connect to the other astrological symbols. The deeper level of meaning where these paradoxes resolve is simply that suffering is the one sure source of wisdom; too often, it\'s only when we are \"stuck\", caught up in a painful situation we do not know how to resolve, that we learn to face the world in more creative ways."), Field8: makeNimstrLit("In a geomantic reading, Tristitia stands for any downward movement. Lowered spirits (sorrow), lowered vitality (illness), and lowered expectations (failure) all fall within its ambit, though it can also mean stability and solidity, the sinking of roots deep into the ground. Unfavorable in most matters, it is favorable for questions involving stabilty and patience. It is very favorable in all questions dealing with building and the Earth , where its quality of \"stuckness\" or permanence is wanted and for any situation in which a secret needs to be kept."), Field9: makeNimstrLit("Aquarius"), Field10: makeNimstrLit("Saturn"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Earth"), Field13: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Laetitia"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit(".:::"), Field3: makeNimstrLit("A tower"), Field4: makeNimstrLit("Joy"), Field5: makeNimstrLit("Laetitia is strengthened in the twelfth house and weakened in the sixth"), Field6: makeNimstrLit("Glittering pale green"), Field7: makeNimstrLit("Laetitia is a figure of joy, balancing the harsh symbolism of Tristitia. It represents happiness of every kind and level, from the most momentary of passing pleasures to the highest reaches of human experience. In its astrological symbolism, Jupiter has its usual role as the planet of good fortune, and watery Pisces and the outer element, Water, represent the emotional life, the context in which joy is usually experienced. The inner element and the elemental structure generally, however, stress the role of energy in the attainment of happyness; it is by way if the free flow of creative force, in ourselves as in the universe, that joy comes into being."), Field8: makeNimstrLit("Laetitia in a geomantic reading is a very positive figure representing any form of ascent. It means upward movement, which is favorable in a querent\'s career (success), emotional state (happiness), or vitality (health). It is traditionally a figure of fortitude, and is thus favorable in most questions, but is unfavorable for any question in which stability and deep roots are needed, and very unfavorable when a secret needs to be kept."), Field9: makeNimstrLit("Pisces"), Field10: makeNimstrLit("Jupiter"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Fire"), Field13: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Rubeus"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit(":.::"), Field3: makeNimstrLit("A goblet turned upside down"), Field4: makeNimstrLit("Passion"), Field5: makeNimstrLit("Rubeus is strengthened in the eighth house and weak in the second"), Field6: makeNimstrLit("Red, flecked or streaked with brown"), Field7: makeNimstrLit("Rubeus is a figure of passion and involvement in life, balancing the abstract detachment of Albus. Its astrological symbols, Mars, Scorpio, and Water, are the standard images of passionate energy in the symbolic language of the heavens. Its inner element and the one active part of its elemental structure, however, are both Air. The lesson here is that passionate involvement in the world comes from focusing on how we relate to others and to the world itself. At its worst, this too easily becomes a blind intoxication with appearances, but it also has the potential to open way to a joyous participation in the experience of life."), Field8: makeNimstrLit("Rubeus in a geomantic chart is a challenging figure that stands for passion, pleasure, fierceness, and violence. Old books on geomancy describe it as \"good in all that is evil and evil in all that is good.\" It is unfavorable in most situations, but favorable in questions involving sexuality, intoxicants, and violence."), Field9: makeNimstrLit("Scorpio"), Field10: makeNimstrLit("Mars"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Air"), Field13: makeNimstrLit("Water")}, {Field0: makeNimstrLit("Albus"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("::.:"), Field3: makeNimstrLit("A goblet set upright"), Field4: makeNimstrLit("Peace"), Field5: makeNimstrLit("Albus is strengthened in the third house and weakened in the ninth"), Field6: makeNimstrLit("Brilliant white, flecked with red"), Field7: makeNimstrLit("Albus is a figure of peace and detachment, balancing the passionate figure Rubeus its astrological symbols, Mercury, Gemini and Air, point to the way in which detachment has most often expressed itself in the Western world\xE2\x80\x94the way of the intellect, which moves away from direct experience into abstract ideas. More deeply, though, Albus is a figure of Water, which is its only active line and also its inner element; it represents awareness caught up wholly in its own inner life and turned away from the action in the outer world of experience. In its highest form, this inward focus can lead the attentive mind to transcendence by ways of mysticism, but it can also become a retreat from life that ends in sterility, isolation, and madness."), Field8: makeNimstrLit("Albus in a geomantic chart stands for peace, wisdom, and purity; it is generally a favorable figure, but often weak, and where it occurs, you may need to seek help from other people. It is traditionally a figure od chastity. Albus favors quiet progress and the use of intelligence, and is favorable in most business and financial questions, it is also favorable for beginnings. It is unfavorable in matters requiring courage and energy, or in any situation involving conflict or disruptive change."), Field9: makeNimstrLit("Gemini"), Field10: makeNimstrLit("Mercury"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Water"), Field13: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Puella"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit(".:.."), Field3: makeNimstrLit("A mirror; a female figure with exagerrated breasts"), Field4: makeNimstrLit("Harmony"), Field5: makeNimstrLit("Puella is strengthened in the seventh house and weakened in the first"), Field6: makeNimstrLit("White, flecked with green"), Field7: makeNimstrLit("Puella is a figure of female sexual energy, balancing the masculine figure Puer. Puella is balanced and harmonious, but ambivalent. Its astrological symbols, Venus, Libra and Air, suggest polar opposites held together in harmony and interaction by way of love, while its ruling inner element Water suggests that its energies are turned within, into a reflective inner life. The elemental structure is the key to this figure; with purpose and energy, inner receptivity, and the stability of a material basis, Puella lacks only relationship and interaction to be complete. It seeks to unite with others, where its opposite Puer seeks only to be recieved\xE2\x80\x94a distinction that has more than a little to say about the complexity of relationships between the sexes."), Field8: makeNimstrLit("Puella in a geomantic reading stands for harmony and happiness that may not last indefinitely; it is a favorable figure in most questions, but fickle. It is especially favorable for questions involving love and relationship, and brings a positive answer to any question involving short-term happiness. Because of its fickleness, however, it is infavorable in any situation where permanence is wanted."), Field9: makeNimstrLit("Libra"), Field10: makeNimstrLit("Venus"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Water"), Field13: makeNimstrLit("Air")}, {Field0: makeNimstrLit("Puer"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit("..:."), Field3: makeNimstrLit("A sword; a male figure with exaggerated testicles"), Field4: makeNimstrLit("Energy"), Field5: makeNimstrLit("Puer is strengthened in the first house and weakened in the seventh"), Field6: makeNimstrLit("White, flecked with red"), Field7: makeNimstrLit("Puer is a figure of male sexual energy, balancing the feminine figure Puella. Unstable and forceful, it represents conflict, sudden change, and transformation, with all the constructive and destructive aspects these imply. Its astrological symbolism, Mars, Aries, and Fire, carries forward this pattern of meaning. Its elemental lines and inner element, by contrast, point to a deeper level of interpretation: Puer posseses energy and purpose, interactions with others, and a material expression, but no receptive inner life. All the aspects of its nature are projected outward into the world of experience, as an act of creation or a source of delusion. Like a young warrior riding forth on a quest, it carries the spear of Fire, the sword of Air, and the disk or shield of Earth, but must seek the cup of Water elsewhere\xE2\x80\x94an image that has more than a little to do with the inner meaning of the legendary quest for the Holy Grail."), Field8: makeNimstrLit("Puer in a geomantic reading stands for passionate energy force, seeking, and sudden change are desirable, Puer can be favorable, though even there it can be problematic due to its unthinking nature. It is always unfavorable in matters where stability, prudence, and maturity are advantages."), Field9: makeNimstrLit("Aries"), Field10: makeNimstrLit("Mars"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Air"), Field13: makeNimstrLit("Fire")}, {Field0: makeNimstrLit("Caput Draconis"), Field1: [makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 ")], Field2: makeNimstrLit(":..."), Field3: makeNimstrLit("A doorway with footprints leading toward it"), Field4: makeNimstrLit("Beginning"), Field5: makeNimstrLit("Caput Draconis is strengthened in the sixth house and weakened in the twelfth"), Field6: makeNimstrLit("White, flecked with citrine"), Field7: makeNimstrLit("Caput Draconis is a figure of opportunities and beginnings, balancing Cauda Draconis\'s symbolism of endings. As the geomantic equivalent of the north or ascending node of the Moon, Caput Draconis shares much of the same focus on drastic change as Cauda, but the north node\xE2\x80\x94the point at which the Moon crosses the Sun\'s path into the northern heavens\xE2\x80\x94shares some of the symbolism of Venus and Jupiter, the two benefics or positive forces in traditional astrology. This figure thus represents the change for the better, and is a particularly positive sign for beginnings. Earth, which is both its inner and outer element, and its elemental structure generally suggest fertile ground, needing only the energy of the seed and sunlight; still, much depends on the seed that is planted there."), Field8: makeNimstrLit("In a geomantic reading, Caput Draconis represents beginnings and new possibilities. It tends to vary in meaning with its company, becoming more favorable with favorable figures and more unfavorable with unfavorable ones, but it often foretells a good result with some difficulty at the beginning. Caput Draconis is favorable in all matters having to do with beginnings, and unfavorable in questions where ending something is desirable."), Field9: makeNimstrLit("Virgo"), Field10: makeNimstrLit("North Node of the Moon"), Field11: makeNimstrLit("Stable"), Field12: makeNimstrLit("Earth"), Field13: makeNimstrLit("Earth")}, {Field0: makeNimstrLit("Cauda Draconis"), Field1: [makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit(" \xE2\x80\xA2 "), makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2")], Field2: makeNimstrLit("...:"), Field3: makeNimstrLit("A doorway with footprints leading away from it"), Field4: makeNimstrLit("Ending"), Field5: makeNimstrLit("Cauda Draconis is strengthened in the ninth house and weakened in the third"), Field6: makeNimstrLit("Green, white, dark crimson, or pale tawny brown"), Field7: makeNimstrLit("Cauda Draconis is a symbol of endings and completions, balancing the symbolism of beginnings in Caput Draconis. Its astrological symbolism is that of the south or descending node of the Moon\xE2\x80\x94the point at which the Moon crosses the sun\'s path to go into the southern heavens. This point has some of the same symbolism as Mars and Saturn, the two malefics or negative forces in traditional astrology, and so Cauda Draconis symbolizes disruptions, losses, and endings. Its inner and outer elements are both Fire; the elemental structure, which lacks only Earth, suggests a situation nearing completion and thus ripe for radical change."), Field8: makeNimstrLit("In a geomantic reading, Cauda Draconis represents ending, completion, and letting go of the past. A figure with a complex message, it brings good with evil and evil with good, but is traditionally a figure of generosity. It is favorable in any situation where something is coming to an end, but unfavorable for most other questions."), Field9: makeNimstrLit("Sagittarius"), Field10: makeNimstrLit("South Node of the Moon"), Field11: makeNimstrLit("Mobile"), Field12: makeNimstrLit("Fire"), Field13: makeNimstrLit("Fire")}];
 
 function cstrToNimstr(c_33556804) {
       var ln = c_33556804.length;
@@ -1281,12 +1282,12 @@ if (!Math.trunc) {
   };
 }
 
-var state_637534221 = [{a0: 1773455756, a1: 4275166512}];
-if (globalThis.utcInstance_822084970 === undefined) {
-  globalThis.utcInstance_822084970 = [null];
+var state_620757005 = [{a0: 1773455756, a1: 4275166512}];
+if (globalThis.utcInstance_805307754 === undefined) {
+  globalThis.utcInstance_805307754 = [null];
 }
-if (globalThis.localInstance_822084971 === undefined) {
-  globalThis.localInstance_822084971 = [null];
+if (globalThis.localInstance_805307755 === undefined) {
+  globalThis.localInstance_805307755 = [null];
 }
 
 function toFloat_33556001(i_33556002) {
@@ -1307,94 +1308,94 @@ function HEX2F_33557575(x_33557576, y_33557577) {
 
 }
 
-function epochTime_822086938() {
-  var result_822086939 = 0.0;
+function epochTime_805309722() {
+  var result_805309723 = 0.0;
 
-    result_822086939 = HEX2F_33557575(new Date().getTime(), 1000);
+    result_805309723 = HEX2F_33557575(new Date().getTime(), 1000);
 
-  return result_822086939;
-
-}
-
-function rotl_637534239(x_637534240, k_637534241) {
-  var result_637534242 = 0;
-
-    result_637534242 = ((x_637534240 << k_637534241) | (x_637534240 >>> ((64 - k_637534241) >>> 0)));
-
-  return result_637534242;
+  return result_805309723;
 
 }
 
-function next_637534251(r_637534252) {
-  var result_637534253 = 0;
+function rotl_620757023(x_620757024, k_620757025) {
+  var result_620757026 = 0;
 
-    var s0_637534254 = r_637534252.a0;
-    var s1_637534255 = r_637534252.a1;
-    result_637534253 = ((s0_637534254 + s1_637534255) >>> 0);
-    s1_637534255 = (s1_637534255 ^ s0_637534254);
-    r_637534252.a0 = ((rotl_637534239(s0_637534254, 55) ^ s1_637534255) ^ (s1_637534255 << 14));
-    r_637534252.a1 = rotl_637534239(s1_637534255, 36);
+    result_620757026 = ((x_620757024 << k_620757025) | (x_620757024 >>> ((64 - k_620757025) >>> 0)));
 
-  return result_637534253;
+  return result_620757026;
 
 }
 
-function skipRandomNumbers_637534260(s_637534261) {
-    var s0_637534263 = 0;
-    var s1_637534264 = 0;
+function next_620757035(r_620757036) {
+  var result_620757037 = 0;
+
+    var s0_620757038 = r_620757036.a0;
+    var s1_620757039 = r_620757036.a1;
+    result_620757037 = ((s0_620757038 + s1_620757039) >>> 0);
+    s1_620757039 = (s1_620757039 ^ s0_620757038);
+    r_620757036.a0 = ((rotl_620757023(s0_620757038, 55) ^ s1_620757039) ^ (s1_620757039 << 14));
+    r_620757036.a1 = rotl_620757023(s1_620757039, 36);
+
+  return result_620757037;
+
+}
+
+function skipRandomNumbers_620757044(s_620757045) {
+    var s0_620757047 = 0;
+    var s1_620757048 = 0;
     Label1: do {
-      var i_637534273 = 0;
-      var res_587202570 = 0;
+      var i_620757057 = 0;
+      var res_603979787 = 0;
       Label2: do {
           Label3: while (true) {
-          if (!(res_587202570 <= 1)) break Label3;
-            i_637534273 = res_587202570;
+          if (!(res_603979787 <= 1)) break Label3;
+            i_620757057 = res_603979787;
             Label4: do {
-              var b_637534278 = 0;
-              var i_587202568 = 0;
+              var b_620757062 = 0;
+              var i_603979785 = 0;
               Label5: do {
                   Label6: while (true) {
-                  if (!(i_587202568 < 64)) break Label6;
-                    b_637534278 = i_587202568;
-                    if (!(((helper_637534262[i_637534273] & (1 << b_637534278)) == 0))) {
-                    s0_637534263 = (s0_637534263 ^ s_637534261.a0);
-                    s1_637534264 = (s1_637534264 ^ s_637534261.a1);
+                  if (!(i_603979785 < 64)) break Label6;
+                    b_620757062 = i_603979785;
+                    if (!(((helper_620757046[i_620757057] & (1 << b_620757062)) == 0))) {
+                    s0_620757047 = (s0_620757047 ^ s_620757045.a0);
+                    s1_620757048 = (s1_620757048 ^ s_620757045.a1);
                     }
                     
-                    var _ = next_637534251(s_637534261);
-                    i_587202568 += 1;
+                    var _ = next_620757035(s_620757045);
+                    i_603979785 += 1;
                   }
               } while (false);
             } while (false);
-            res_587202570 += 1;
+            res_603979787 += 1;
           }
       } while (false);
     } while (false);
-    s_637534261.a0 = s0_637534263;
-    s_637534261.a1 = s1_637534264;
+    s_620757045.a0 = s0_620757047;
+    s_620757045.a1 = s1_620757048;
 
   
 }
 
-function initRand_637534427(seed_637534428) {
+function initRand_620757211(seed_620757212) {
     var Temporary1;
 
-  var result_637534429 = [({a0: 0, a1: 0})];
+  var result_620757213 = [({a0: 0, a1: 0})];
 
-    if (!((seed_637534428 == 0))) {
-    Temporary1 = seed_637534428;
+    if (!((seed_620757212 == 0))) {
+    Temporary1 = seed_620757212;
     }
     else {
     Temporary1 = 2147483647;
     }
     
-    var seed_637534435 = Temporary1;
-    result_637534429[0].a0 = Math.floor(seed_637534435 / Math.pow(2, 16));
-    result_637534429[0].a1 = (seed_637534435 & 65535);
-    skipRandomNumbers_637534260(result_637534429[0]);
-    var _ = next_637534251(result_637534429[0]);
+    var seed_620757219 = Temporary1;
+    result_620757213[0].a0 = Math.floor(seed_620757219 / Math.pow(2, 16));
+    result_620757213[0].a1 = (seed_620757219 & 65535);
+    skipRandomNumbers_620757044(result_620757213[0]);
+    var _ = next_620757035(result_620757213[0]);
 
-  return result_637534429[0];
+  return result_620757213[0];
 
 }
 
@@ -1436,42 +1437,42 @@ function nimCopyAux(dest_33557144, src_33557145, n_33557146) {
   
 }
 
-function initRand_637534452() {
-  var result_637534453 = ({a0: 0, a1: 0});
+function initRand_620757236() {
+  var result_620757237 = ({a0: 0, a1: 0});
 
-    var time_637534454 = ((epochTime_822086938() * 1000.0) & 2147483647);
-    result_637534453 = nimCopy(result_637534453, initRand_637534427(time_637534454), NTI637534212);
+    var time_620757238 = ((epochTime_805309722() * 1000.0) & 2147483647);
+    result_620757237 = nimCopy(result_620757237, initRand_620757211(time_620757238), NTI620756996);
 
-  return result_637534453;
+  return result_620757237;
 
 }
 
-function randomize_637534459() {
-    state_637534221[0] = nimCopy(state_637534221[0], initRand_637534452(), NTI637534212);
+function randomize_620757243() {
+    state_620757005[0] = nimCopy(state_620757005[0], initRand_620757236(), NTI620756996);
 
   
 }
-randomize_637534459();
+randomize_620757243();
 var gid_1140851295 = [0];
 var objectID_1241514146 = [0];
 var vcomponents_1174405133 = [{}];
 var kxi__ = null;
 
-function rand_587202615(r_587202617, max_587202618) {
-  var result_587202619 = 0;
+function rand_603979832(r_603979834, max_603979835) {
+  var result_603979836 = 0;
 
   BeforeRet: do {
-    if ((max_587202618 == 0)) {
+    if ((max_603979835 == 0)) {
     break BeforeRet;
     }
     else {
-      var max_587202620 = max_587202618;
+      var max_603979837 = max_603979835;
       Label1: do {
           Label2: while (true) {
           if (!true) break Label2;
-            var x_587202629 = next_637534251(r_587202617);
-            if ((x_587202629 <= ((4294967295 - (4294967295 % max_587202620)) ))) {
-            result_587202619 = (x_587202629 % ((max_587202620 + 1) ));
+            var x_603979846 = next_620757035(r_603979834);
+            if ((x_603979846 <= ((4294967295 - (4294967295 % max_603979837)) ))) {
+            result_603979836 = (x_603979846 % ((max_603979837 + 1) ));
             break BeforeRet;
             }
             
@@ -1481,62 +1482,62 @@ function rand_587202615(r_587202617, max_587202618) {
     
   } while (false);
 
-  return result_587202619;
+  return result_603979836;
 
 }
 
-function rand_587202606(r_587202608, x_587202609) {
-  var result_587202610 = 0;
+function rand_603979823(r_603979825, x_603979826) {
+  var result_603979827 = 0;
 
-    result_587202610 = (((rand_587202615(r_587202608, (((x_587202609.b >>> 0) - (x_587202609.a >>> 0)) >>> 0)) + (x_587202609.a >>> 0)) >>> 0) | 0);
+    result_603979827 = (((rand_603979832(r_603979825, (((x_603979826.b >>> 0) - (x_603979826.a >>> 0)) >>> 0)) + (x_603979826.a >>> 0)) >>> 0) | 0);
 
-  return result_587202610;
-
-}
-
-function rand_587202598(x_587202600) {
-  var result_587202601 = 0;
-
-    result_587202601 = rand_587202606(state_637534221[0], x_587202600);
-
-  return result_587202601;
+  return result_603979827;
 
 }
 
-function HEX2EHEX2E_939524945(a_939524948, b_939524949) {
-  var result_939524950 = ({a: 0, b: 0});
+function rand_603979815(x_603979817) {
+  var result_603979818 = 0;
 
-    result_939524950 = nimCopy(result_939524950, {a: a_939524948, b: b_939524949}, NTI654311925);
+    result_603979818 = rand_603979823(state_620757005[0], x_603979817);
 
-  return result_939524950;
-
-}
-
-function sample_587202579(a_587202581) {
-  var result_587202582 = false;
-
-    result_587202582 = a_587202581[rand_587202598(HEX2EHEX2E_939524945(0, (a_587202581).length - 1))];
-
-  return result_587202582;
+  return result_603979818;
 
 }
 
-function getFigure_587202572() {
-  var result_587202573 = [[], [], [], []];
+function HEX2EHEX2E_922747729(a_922747732, b_922747733) {
+  var result_922747734 = ({a: 0, b: 0});
+
+    result_922747734 = nimCopy(result_922747734, {a: a_922747732, b: b_922747733}, NTI637534709);
+
+  return result_922747734;
+
+}
+
+function sample_603979796(a_603979798) {
+  var result_603979799 = false;
+
+    result_603979799 = a_603979798[rand_603979815(HEX2EHEX2E_922747729(0, (a_603979798).length - 1))];
+
+  return result_603979799;
+
+}
+
+function getFigure_603979789() {
+  var result_603979790 = [[], [], [], []];
 
     Label1: do {
-      var n_587202578 = 0;
+      var n_603979795 = 0;
       var res_452984866 = 0;
       Label2: do {
           Label3: while (true) {
           if (!(res_452984866 <= 3)) break Label3;
-            n_587202578 = res_452984866;
-            switch (sample_587202579([true, false])) {
+            n_603979795 = res_452984866;
+            switch (sample_603979796([true, false])) {
             case true:
-              result_587202573[n_587202578] = nimCopy(null, makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), NTI33554439);
+              result_603979790[n_603979795] = nimCopy(null, makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), NTI33554439);
               break;
             case false:
-              result_587202573[n_587202578] = nimCopy(null, makeNimstrLit(" \xE2\x80\xA2 "), NTI33554439);
+              result_603979790[n_603979795] = nimCopy(null, makeNimstrLit(" \xE2\x80\xA2 "), NTI33554439);
               break;
             default: 
               break;
@@ -1546,65 +1547,65 @@ function getFigure_587202572() {
       } while (false);
     } while (false);
 
-  return result_587202573;
+  return result_603979790;
 
 }
 
-function getMothers_587202666() {
-  var result_587202667 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
+function getMothers_603979883() {
+  var result_603979884 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
 
     Label1: do {
-      var n_587202672 = 0;
+      var n_603979889 = 0;
       var res_452984863 = 0;
       Label2: do {
           Label3: while (true) {
           if (!(res_452984863 <= 3)) break Label3;
-            n_587202672 = res_452984863;
-            result_587202667[n_587202672] = nimCopy(result_587202667[n_587202672], getFigure_587202572(), NTI587202563);
+            n_603979889 = res_452984863;
+            result_603979884[n_603979889] = nimCopy(result_603979884[n_603979889], getFigure_603979789(), NTI603979779);
             res_452984863 += 1;
           }
       } while (false);
     } while (false);
 
-  return result_587202667;
+  return result_603979884;
 
 }
 
-function getDaughters_587202682(mothers_587202683) {
-  var result_587202684 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
+function getDaughters_603979899(mothers_603979900) {
+  var result_603979901 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
 
     Label1: do {
-      var d_587202689 = 0;
+      var d_603979906 = 0;
       var res_452984870 = 0;
       Label2: do {
           Label3: while (true) {
           if (!(res_452984870 <= 3)) break Label3;
-            d_587202689 = res_452984870;
-            result_587202684[d_587202689] = nimCopy(result_587202684[d_587202689], [nimCopy(null, mothers_587202683[0][d_587202689], NTI33554439), nimCopy(null, mothers_587202683[1][d_587202689], NTI33554439), nimCopy(null, mothers_587202683[2][d_587202689], NTI33554439), nimCopy(null, mothers_587202683[3][d_587202689], NTI33554439)], NTI587202563);
+            d_603979906 = res_452984870;
+            result_603979901[d_603979906] = nimCopy(result_603979901[d_603979906], [nimCopy(null, mothers_603979900[0][d_603979906], NTI33554439), nimCopy(null, mothers_603979900[1][d_603979906], NTI33554439), nimCopy(null, mothers_603979900[2][d_603979906], NTI33554439), nimCopy(null, mothers_603979900[3][d_603979906], NTI33554439)], NTI603979779);
             res_452984870 += 1;
           }
       } while (false);
     } while (false);
 
-  return result_587202684;
+  return result_603979901;
 
 }
 
-function sumFigures_587202690(fig1_587202691, fig2_587202692) {
-  var result_587202693 = [[], [], [], []];
+function sumFigures_603979907(fig1_603979908, fig2_603979909) {
+  var result_603979910 = [[], [], [], []];
 
     Label1: do {
-      var n_587202698 = 0;
+      var n_603979915 = 0;
       var res_452984873 = 0;
       Label2: do {
           Label3: while (true) {
           if (!(res_452984873 <= 3)) break Label3;
-            n_587202698 = res_452984873;
-            if (eqStrings(fig1_587202691[n_587202698], fig2_587202692[n_587202698])) {
-            result_587202693[n_587202698] = nimCopy(null, makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), NTI33554439);
+            n_603979915 = res_452984873;
+            if (eqStrings(fig1_603979908[n_603979915], fig2_603979909[n_603979915])) {
+            result_603979910[n_603979915] = nimCopy(null, makeNimstrLit("\xE2\x80\xA2 \xE2\x80\xA2"), NTI33554439);
             }
             else {
-              result_587202693[n_587202698] = nimCopy(null, makeNimstrLit(" \xE2\x80\xA2 "), NTI33554439);
+              result_603979910[n_603979915] = nimCopy(null, makeNimstrLit(" \xE2\x80\xA2 "), NTI33554439);
             }
             
             res_452984873 += 1;
@@ -1612,49 +1613,49 @@ function sumFigures_587202690(fig1_587202691, fig2_587202692) {
       } while (false);
     } while (false);
 
-  return result_587202693;
+  return result_603979910;
 
 }
 
-function getNieces_587202699(mothers_587202700, daughters_587202701) {
-  var result_587202702 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
+function getNieces_603979916(mothers_603979917, daughters_603979918) {
+  var result_603979919 = [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]];
 
-    result_587202702[0] = nimCopy(result_587202702[0], sumFigures_587202690(mothers_587202700[0], mothers_587202700[1]), NTI587202563);
-    result_587202702[1] = nimCopy(result_587202702[1], sumFigures_587202690(mothers_587202700[2], mothers_587202700[3]), NTI587202563);
-    result_587202702[2] = nimCopy(result_587202702[2], sumFigures_587202690(daughters_587202701[0], daughters_587202701[1]), NTI587202563);
-    result_587202702[3] = nimCopy(result_587202702[3], sumFigures_587202690(daughters_587202701[2], daughters_587202701[3]), NTI587202563);
+    result_603979919[0] = nimCopy(result_603979919[0], sumFigures_603979907(mothers_603979917[0], mothers_603979917[1]), NTI603979779);
+    result_603979919[1] = nimCopy(result_603979919[1], sumFigures_603979907(mothers_603979917[2], mothers_603979917[3]), NTI603979779);
+    result_603979919[2] = nimCopy(result_603979919[2], sumFigures_603979907(daughters_603979918[0], daughters_603979918[1]), NTI603979779);
+    result_603979919[3] = nimCopy(result_603979919[3], sumFigures_603979907(daughters_603979918[2], daughters_603979918[3]), NTI603979779);
 
-  return result_587202702;
+  return result_603979919;
 
 }
 
-function geomancy_587202703() {
-  var result_587202710 = {Field0: [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]], Field1: [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]], Field2: [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]], Field3: [[], [], [], []], Field4: [[], [], [], []], Field5: [[], [], [], []]};
+function geomancy_603979920() {
+  var result_603979927 = {Field0: [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]], Field1: [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]], Field2: [[[], [], [], []], [[], [], [], []], [[], [], [], []], [[], [], [], []]], Field3: [[], [], [], []], Field4: [[], [], [], []], Field5: [[], [], [], []]};
 
   BeforeRet: do {
-    var ms_587202711 = getMothers_587202666();
-    var ds_587202712 = getDaughters_587202682(ms_587202711);
-    var ns_587202713 = getNieces_587202699(ms_587202711, ds_587202712);
-    var rw_587202714 = sumFigures_587202690(ns_587202713[0], ns_587202713[1]);
-    var lw_587202715 = sumFigures_587202690(ns_587202713[2], ns_587202713[3]);
-    var ju_587202716 = sumFigures_587202690(rw_587202714, lw_587202715);
-    var colontmp__452984856 = nimCopy(null, ms_587202711, NTI587202564);
-    var colontmp__452984857 = nimCopy(null, ds_587202712, NTI587202564);
-    var colontmp__452984858 = nimCopy(null, ns_587202713, NTI587202564);
-    var colontmp__452984859 = nimCopy(null, rw_587202714, NTI587202563);
-    var colontmp__452984860 = nimCopy(null, lw_587202715, NTI587202563);
-    var colontmp__452984861 = nimCopy(null, ju_587202716, NTI587202563);
-    result_587202710 = nimCopy(result_587202710, {Field0: nimCopy(null, colontmp__452984856, NTI587202564), Field1: nimCopy(null, colontmp__452984857, NTI587202564), Field2: nimCopy(null, colontmp__452984858, NTI587202564), Field3: nimCopy(null, colontmp__452984859, NTI587202563), Field4: nimCopy(null, colontmp__452984860, NTI587202563), Field5: nimCopy(null, colontmp__452984861, NTI587202563)}, NTI587202684);
+    var ms_603979928 = getMothers_603979883();
+    var ds_603979929 = getDaughters_603979899(ms_603979928);
+    var ns_603979930 = getNieces_603979916(ms_603979928, ds_603979929);
+    var rw_603979931 = sumFigures_603979907(ns_603979930[0], ns_603979930[1]);
+    var lw_603979932 = sumFigures_603979907(ns_603979930[2], ns_603979930[3]);
+    var ju_603979933 = sumFigures_603979907(rw_603979931, lw_603979932);
+    var colontmp__452984856 = nimCopy(null, ms_603979928, NTI603979780);
+    var colontmp__452984857 = nimCopy(null, ds_603979929, NTI603979780);
+    var colontmp__452984858 = nimCopy(null, ns_603979930, NTI603979780);
+    var colontmp__452984859 = nimCopy(null, rw_603979931, NTI603979779);
+    var colontmp__452984860 = nimCopy(null, lw_603979932, NTI603979779);
+    var colontmp__452984861 = nimCopy(null, ju_603979933, NTI603979779);
+    result_603979927 = nimCopy(result_603979927, {Field0: nimCopy(null, colontmp__452984856, NTI603979780), Field1: nimCopy(null, colontmp__452984857, NTI603979780), Field2: nimCopy(null, colontmp__452984858, NTI603979780), Field3: nimCopy(null, colontmp__452984859, NTI603979779), Field4: nimCopy(null, colontmp__452984860, NTI603979779), Field5: nimCopy(null, colontmp__452984861, NTI603979779)}, NTI603979900);
     break BeforeRet;
   } while (false);
 
-  return result_587202710;
+  return result_603979927;
 
 }
-var reading_452984843 = [geomancy_587202703()];
+var reading_452984843 = [geomancy_603979920()];
 var selected_452984844 = [makeNimstrLit("m0")];
 var lastselected_452984845 = [makeNimstrLit("m0")];
-var details_452984846 = [{Field0: [], Field1: [[], [], [], []], Field2: [], Field3: [], Field4: [], Field5: [], Field6: [], Field7: [], Field8: [], Field9: [], Field10: [], Field11: [], Field12: []}];
+var details_452984846 = [{Field0: [], Field1: [[], [], [], []], Field2: [], Field3: [], Field4: [], Field5: [], Field6: [], Field7: [], Field8: [], Field9: [], Field10: [], Field11: [], Field12: [], Field13: []}];
 
 function newSeq_33556825(len_33556827) {
   var result_33556828 = [];
@@ -1740,14 +1741,14 @@ function HEX3DHEX3D_452984950(x_452984953, y_452984954) {
 
 function getFigData_452984922(fig_452984923) {
     Label1: do {
-      var fd_452984949 = {Field0: [], Field1: [[], [], [], []], Field2: [], Field3: [], Field4: [], Field5: [], Field6: [], Field7: [], Field8: [], Field9: [], Field10: [], Field11: [], Field12: []};
+      var fd_452984949 = {Field0: [], Field1: [[], [], [], []], Field2: [], Field3: [], Field4: [], Field5: [], Field6: [], Field7: [], Field8: [], Field9: [], Field10: [], Field11: [], Field12: [], Field13: []};
       var i_452984977 = 0;
       Label2: do {
           Label3: while (true) {
           if (!true) break Label3;
-            fd_452984949 = nimCopy(fd_452984949, Figures_603980029[i_452984977], NTI603979779);
+            fd_452984949 = nimCopy(fd_452984949, Figures_1023410447[i_452984977], NTI1023410179);
             if (HEX3DHEX3D_452984950(fig_452984923, fd_452984949.Field1)) {
-            details_452984846[0] = nimCopy(details_452984846[0], fd_452984949, NTI603979779);
+            details_452984846[0] = nimCopy(details_452984846[0], fd_452984949, NTI1023410179);
             }
             
             if ((15 <= i_452984977)) {
@@ -2488,7 +2489,7 @@ function updateStyles_1107296801(newNode_1107296802, oldNode_1107296803) {
     applyStyle_1207960032(oldNode_1107296803.dom, newNode_1107296802.style);
     }
     else {
-      oldNode_1107296803.dom.style = {m_type: NTI620757041, alignContent: null, alignItems: null, alignSelf: null, all: null, animation: null, animationDelay: null, animationDirection: null, animationDuration: null, animationFillMode: null, animationIterationCount: null, animationName: null, animationPlayState: null, animationTimingFunction: null, backdropFilter: null, backfaceVisibility: null, background: null, backgroundAttachment: null, backgroundBlendMode: null, backgroundClip: null, backgroundColor: null, backgroundImage: null, backgroundOrigin: null, backgroundPosition: null, backgroundRepeat: null, backgroundSize: null, blockSize: null, border: null, borderBlock: null, borderBlockColor: null, borderBlockEnd: null, borderBlockEndColor: null, borderBlockEndStyle: null, borderBlockEndWidth: null, borderBlockStart: null, borderBlockStartColor: null, borderBlockStartStyle: null, borderBlockStartWidth: null, borderBlockStyle: null, borderBlockWidth: null, borderBottom: null, borderBottomColor: null, borderBottomLeftRadius: null, borderBottomRightRadius: null, borderBottomStyle: null, borderBottomWidth: null, borderCollapse: null, borderColor: null, borderEndEndRadius: null, borderEndStartRadius: null, borderImage: null, borderImageOutset: null, borderImageRepeat: null, borderImageSlice: null, borderImageSource: null, borderImageWidth: null, borderInline: null, borderInlineColor: null, borderInlineEnd: null, borderInlineEndColor: null, borderInlineEndStyle: null, borderInlineEndWidth: null, borderInlineStart: null, borderInlineStartColor: null, borderInlineStartStyle: null, borderInlineStartWidth: null, borderInlineStyle: null, borderInlineWidth: null, borderLeft: null, borderLeftColor: null, borderLeftStyle: null, borderLeftWidth: null, borderRadius: null, borderRight: null, borderRightColor: null, borderRightStyle: null, borderRightWidth: null, borderSpacing: null, borderStartEndRadius: null, borderStartStartRadius: null, borderStyle: null, borderTop: null, borderTopColor: null, borderTopLeftRadius: null, borderTopRightRadius: null, borderTopStyle: null, borderTopWidth: null, borderWidth: null, bottom: null, boxDecorationBreak: null, boxShadow: null, boxSizing: null, breakAfter: null, breakBefore: null, breakInside: null, captionSide: null, caretColor: null, clear: null, clip: null, clipPath: null, color: null, colorAdjust: null, columnCount: null, columnFill: null, columnGap: null, columnRule: null, columnRuleColor: null, columnRuleStyle: null, columnRuleWidth: null, columnSpan: null, columnWidth: null, columns: null, contain: null, content: null, counterIncrement: null, counterReset: null, counterSet: null, cursor: null, direction: null, display: null, emptyCells: null, filter: null, flex: null, flexBasis: null, flexDirection: null, flexFlow: null, flexGrow: null, flexShrink: null, flexWrap: null, cssFloat: null, font: null, fontFamily: null, fontFeatureSettings: null, fontKerning: null, fontLanguageOverride: null, fontOpticalSizing: null, fontSize: null, fontSizeAdjust: null, fontStretch: null, fontStyle: null, fontSynthesis: null, fontVariant: null, fontVariantAlternates: null, fontVariantCaps: null, fontVariantEastAsian: null, fontVariantLigatures: null, fontVariantNumeric: null, fontVariantPosition: null, fontVariationSettings: null, fontWeight: null, gap: null, grid: null, gridArea: null, gridAutoColumns: null, gridAutoFlow: null, gridAutoRows: null, gridColumn: null, gridColumnEnd: null, gridColumnStart: null, gridRow: null, gridRowEnd: null, gridRowStart: null, gridTemplate: null, gridTemplateAreas: null, gridTemplateColumns: null, gridTemplateRows: null, hangingPunctuation: null, height: null, hyphens: null, imageOrientation: null, imageRendering: null, inlineSize: null, inset: null, insetBlock: null, insetBlockEnd: null, insetBlockStart: null, insetInline: null, insetInlineEnd: null, insetInlineStart: null, isolation: null, justifyContent: null, justifyItems: null, justifySelf: null, left: null, letterSpacing: null, lineBreak: null, lineHeight: null, listStyle: null, listStyleImage: null, listStylePosition: null, listStyleType: null, margin: null, marginBlock: null, marginBlockEnd: null, marginBlockStart: null, marginBottom: null, marginInline: null, marginInlineEnd: null, marginInlineStart: null, marginLeft: null, marginRight: null, marginTop: null, mask: null, maskBorder: null, maskBorderMode: null, maskBorderOutset: null, maskBorderRepeat: null, maskBorderSlice: null, maskBorderSource: null, maskBorderWidth: null, maskClip: null, maskComposite: null, maskImage: null, maskMode: null, maskOrigin: null, maskPosition: null, maskRepeat: null, maskSize: null, maskType: null, maxBlockSize: null, maxHeight: null, maxInlineSize: null, maxWidth: null, minBlockSize: null, minHeight: null, minInlineSize: null, minWidth: null, mixBlendMode: null, objectFit: null, objectPosition: null, offset: null, offsetAnchor: null, offsetDistance: null, offsetPath: null, offsetRotate: null, opacity: null, order: null, orphans: null, outline: null, outlineColor: null, outlineOffset: null, outlineStyle: null, outlineWidth: null, overflow: null, overflowAnchor: null, overflowBlock: null, overflowInline: null, overflowWrap: null, overflowX: null, overflowY: null, overscrollBehavior: null, overscrollBehaviorBlock: null, overscrollBehaviorInline: null, overscrollBehaviorX: null, overscrollBehaviorY: null, padding: null, paddingBlock: null, paddingBlockEnd: null, paddingBlockStart: null, paddingBottom: null, paddingInline: null, paddingInlineEnd: null, paddingInlineStart: null, paddingLeft: null, paddingRight: null, paddingTop: null, pageBreakAfter: null, pageBreakBefore: null, pageBreakInside: null, paintOrder: null, perspective: null, perspectiveOrigin: null, placeContent: null, placeItems: null, placeSelf: null, pointerEvents: null, position: null, quotes: null, resize: null, right: null, rotate: null, rowGap: null, scale: null, scrollBehavior: null, scrollMargin: null, scrollMarginBlock: null, scrollMarginBlockEnd: null, scrollMarginBlockStart: null, scrollMarginBottom: null, scrollMarginInline: null, scrollMarginInlineEnd: null, scrollMarginInlineStart: null, scrollMarginLeft: null, scrollMarginRight: null, scrollMarginTop: null, scrollPadding: null, scrollPaddingBlock: null, scrollPaddingBlockEnd: null, scrollPaddingBlockStart: null, scrollPaddingBottom: null, scrollPaddingInline: null, scrollPaddingInlineEnd: null, scrollPaddingInlineStart: null, scrollPaddingLeft: null, scrollPaddingRight: null, scrollPaddingTop: null, scrollSnapAlign: null, scrollSnapStop: null, scrollSnapType: null, scrollbar3dLightColor: null, scrollbarArrowColor: null, scrollbarBaseColor: null, scrollbarColor: null, scrollbarDarkshadowColor: null, scrollbarFaceColor: null, scrollbarHighlightColor: null, scrollbarShadowColor: null, scrollbarTrackColor: null, scrollbarWidth: null, shapeImageThreshold: null, shapeMargin: null, shapeOutside: null, tabSize: null, tableLayout: null, textAlign: null, textAlignLast: null, textCombineUpright: null, textDecoration: null, textDecorationColor: null, textDecorationLine: null, textDecorationSkipInk: null, textDecorationStyle: null, textDecorationThickness: null, textEmphasis: null, textEmphasisColor: null, textEmphasisPosition: null, textEmphasisStyle: null, textIndent: null, textJustify: null, textOrientation: null, textOverflow: null, textRendering: null, textShadow: null, textTransform: null, textUnderlineOffset: null, textUnderlinePosition: null, top: null, touchAction: null, transform: null, transformBox: null, transformOrigin: null, transformStyle: null, transition: null, transitionDelay: null, transitionDuration: null, transitionProperty: null, transitionTimingFunction: null, translate: null, unicodeBidi: null, verticalAlign: null, visibility: null, whiteSpace: null, widows: null, width: null, willChange: null, wordBreak: null, wordSpacing: null, writingMode: null, zIndex: null};
+      oldNode_1107296803.dom.style = {m_type: NTI587202609, alignContent: null, alignItems: null, alignSelf: null, all: null, animation: null, animationDelay: null, animationDirection: null, animationDuration: null, animationFillMode: null, animationIterationCount: null, animationName: null, animationPlayState: null, animationTimingFunction: null, backdropFilter: null, backfaceVisibility: null, background: null, backgroundAttachment: null, backgroundBlendMode: null, backgroundClip: null, backgroundColor: null, backgroundImage: null, backgroundOrigin: null, backgroundPosition: null, backgroundRepeat: null, backgroundSize: null, blockSize: null, border: null, borderBlock: null, borderBlockColor: null, borderBlockEnd: null, borderBlockEndColor: null, borderBlockEndStyle: null, borderBlockEndWidth: null, borderBlockStart: null, borderBlockStartColor: null, borderBlockStartStyle: null, borderBlockStartWidth: null, borderBlockStyle: null, borderBlockWidth: null, borderBottom: null, borderBottomColor: null, borderBottomLeftRadius: null, borderBottomRightRadius: null, borderBottomStyle: null, borderBottomWidth: null, borderCollapse: null, borderColor: null, borderEndEndRadius: null, borderEndStartRadius: null, borderImage: null, borderImageOutset: null, borderImageRepeat: null, borderImageSlice: null, borderImageSource: null, borderImageWidth: null, borderInline: null, borderInlineColor: null, borderInlineEnd: null, borderInlineEndColor: null, borderInlineEndStyle: null, borderInlineEndWidth: null, borderInlineStart: null, borderInlineStartColor: null, borderInlineStartStyle: null, borderInlineStartWidth: null, borderInlineStyle: null, borderInlineWidth: null, borderLeft: null, borderLeftColor: null, borderLeftStyle: null, borderLeftWidth: null, borderRadius: null, borderRight: null, borderRightColor: null, borderRightStyle: null, borderRightWidth: null, borderSpacing: null, borderStartEndRadius: null, borderStartStartRadius: null, borderStyle: null, borderTop: null, borderTopColor: null, borderTopLeftRadius: null, borderTopRightRadius: null, borderTopStyle: null, borderTopWidth: null, borderWidth: null, bottom: null, boxDecorationBreak: null, boxShadow: null, boxSizing: null, breakAfter: null, breakBefore: null, breakInside: null, captionSide: null, caretColor: null, clear: null, clip: null, clipPath: null, color: null, colorAdjust: null, columnCount: null, columnFill: null, columnGap: null, columnRule: null, columnRuleColor: null, columnRuleStyle: null, columnRuleWidth: null, columnSpan: null, columnWidth: null, columns: null, contain: null, content: null, counterIncrement: null, counterReset: null, counterSet: null, cursor: null, direction: null, display: null, emptyCells: null, filter: null, flex: null, flexBasis: null, flexDirection: null, flexFlow: null, flexGrow: null, flexShrink: null, flexWrap: null, cssFloat: null, font: null, fontFamily: null, fontFeatureSettings: null, fontKerning: null, fontLanguageOverride: null, fontOpticalSizing: null, fontSize: null, fontSizeAdjust: null, fontStretch: null, fontStyle: null, fontSynthesis: null, fontVariant: null, fontVariantAlternates: null, fontVariantCaps: null, fontVariantEastAsian: null, fontVariantLigatures: null, fontVariantNumeric: null, fontVariantPosition: null, fontVariationSettings: null, fontWeight: null, gap: null, grid: null, gridArea: null, gridAutoColumns: null, gridAutoFlow: null, gridAutoRows: null, gridColumn: null, gridColumnEnd: null, gridColumnStart: null, gridRow: null, gridRowEnd: null, gridRowStart: null, gridTemplate: null, gridTemplateAreas: null, gridTemplateColumns: null, gridTemplateRows: null, hangingPunctuation: null, height: null, hyphens: null, imageOrientation: null, imageRendering: null, inlineSize: null, inset: null, insetBlock: null, insetBlockEnd: null, insetBlockStart: null, insetInline: null, insetInlineEnd: null, insetInlineStart: null, isolation: null, justifyContent: null, justifyItems: null, justifySelf: null, left: null, letterSpacing: null, lineBreak: null, lineHeight: null, listStyle: null, listStyleImage: null, listStylePosition: null, listStyleType: null, margin: null, marginBlock: null, marginBlockEnd: null, marginBlockStart: null, marginBottom: null, marginInline: null, marginInlineEnd: null, marginInlineStart: null, marginLeft: null, marginRight: null, marginTop: null, mask: null, maskBorder: null, maskBorderMode: null, maskBorderOutset: null, maskBorderRepeat: null, maskBorderSlice: null, maskBorderSource: null, maskBorderWidth: null, maskClip: null, maskComposite: null, maskImage: null, maskMode: null, maskOrigin: null, maskPosition: null, maskRepeat: null, maskSize: null, maskType: null, maxBlockSize: null, maxHeight: null, maxInlineSize: null, maxWidth: null, minBlockSize: null, minHeight: null, minInlineSize: null, minWidth: null, mixBlendMode: null, objectFit: null, objectPosition: null, offset: null, offsetAnchor: null, offsetDistance: null, offsetPath: null, offsetRotate: null, opacity: null, order: null, orphans: null, outline: null, outlineColor: null, outlineOffset: null, outlineStyle: null, outlineWidth: null, overflow: null, overflowAnchor: null, overflowBlock: null, overflowInline: null, overflowWrap: null, overflowX: null, overflowY: null, overscrollBehavior: null, overscrollBehaviorBlock: null, overscrollBehaviorInline: null, overscrollBehaviorX: null, overscrollBehaviorY: null, padding: null, paddingBlock: null, paddingBlockEnd: null, paddingBlockStart: null, paddingBottom: null, paddingInline: null, paddingInlineEnd: null, paddingInlineStart: null, paddingLeft: null, paddingRight: null, paddingTop: null, pageBreakAfter: null, pageBreakBefore: null, pageBreakInside: null, paintOrder: null, perspective: null, perspectiveOrigin: null, placeContent: null, placeItems: null, placeSelf: null, pointerEvents: null, position: null, quotes: null, resize: null, right: null, rotate: null, rowGap: null, scale: null, scrollBehavior: null, scrollMargin: null, scrollMarginBlock: null, scrollMarginBlockEnd: null, scrollMarginBlockStart: null, scrollMarginBottom: null, scrollMarginInline: null, scrollMarginInlineEnd: null, scrollMarginInlineStart: null, scrollMarginLeft: null, scrollMarginRight: null, scrollMarginTop: null, scrollPadding: null, scrollPaddingBlock: null, scrollPaddingBlockEnd: null, scrollPaddingBlockStart: null, scrollPaddingBottom: null, scrollPaddingInline: null, scrollPaddingInlineEnd: null, scrollPaddingInlineStart: null, scrollPaddingLeft: null, scrollPaddingRight: null, scrollPaddingTop: null, scrollSnapAlign: null, scrollSnapStop: null, scrollSnapType: null, scrollbar3dLightColor: null, scrollbarArrowColor: null, scrollbarBaseColor: null, scrollbarColor: null, scrollbarDarkshadowColor: null, scrollbarFaceColor: null, scrollbarHighlightColor: null, scrollbarShadowColor: null, scrollbarTrackColor: null, scrollbarWidth: null, shapeImageThreshold: null, shapeMargin: null, shapeOutside: null, tabSize: null, tableLayout: null, textAlign: null, textAlignLast: null, textCombineUpright: null, textDecoration: null, textDecorationColor: null, textDecorationLine: null, textDecorationSkipInk: null, textDecorationStyle: null, textDecorationThickness: null, textEmphasis: null, textEmphasisColor: null, textEmphasisPosition: null, textEmphasisStyle: null, textIndent: null, textJustify: null, textOrientation: null, textOverflow: null, textRendering: null, textShadow: null, textTransform: null, textUnderlineOffset: null, textUnderlinePosition: null, top: null, touchAction: null, transform: null, transformBox: null, transformOrigin: null, transformStyle: null, transition: null, transitionDelay: null, transitionDuration: null, transitionProperty: null, transitionTimingFunction: null, translate: null, unicodeBidi: null, verticalAlign: null, visibility: null, whiteSpace: null, widows: null, width: null, willChange: null, wordBreak: null, wordSpacing: null, writingMode: null, zIndex: null};
     }
     
     oldNode_1107296803.dom.className = newNode_1107296802.class;
@@ -3300,7 +3301,7 @@ function HEX3Aanonymous_452985195() {
     Label1: do {
       var l_452985103 = [];
       var colontmp__452985426 = [[], [], [], []];
-      colontmp__452985426 = nimCopy(colontmp__452985426, reading_452984843[0].Field1[3], NTI587202563);
+      colontmp__452985426 = nimCopy(colontmp__452985426, reading_452984843[0].Field1[3], NTI603979779);
       var i_452985428 = 0;
       Label2: do {
           Label3: while (true) {
@@ -3324,7 +3325,7 @@ function HEX3Aanonymous_452985195() {
     Label4: do {
       var l_452985110 = [];
       var colontmp__452985431 = [[], [], [], []];
-      colontmp__452985431 = nimCopy(colontmp__452985431, reading_452984843[0].Field1[2], NTI587202563);
+      colontmp__452985431 = nimCopy(colontmp__452985431, reading_452984843[0].Field1[2], NTI603979779);
       var i_452985432 = 0;
       Label5: do {
           Label6: while (true) {
@@ -3348,7 +3349,7 @@ function HEX3Aanonymous_452985195() {
     Label7: do {
       var l_452985117 = [];
       var colontmp__452985435 = [[], [], [], []];
-      colontmp__452985435 = nimCopy(colontmp__452985435, reading_452984843[0].Field1[1], NTI587202563);
+      colontmp__452985435 = nimCopy(colontmp__452985435, reading_452984843[0].Field1[1], NTI603979779);
       var i_452985436 = 0;
       Label8: do {
           Label9: while (true) {
@@ -3372,7 +3373,7 @@ function HEX3Aanonymous_452985195() {
     Label10: do {
       var l_452985124 = [];
       var colontmp__452985439 = [[], [], [], []];
-      colontmp__452985439 = nimCopy(colontmp__452985439, reading_452984843[0].Field1[0], NTI587202563);
+      colontmp__452985439 = nimCopy(colontmp__452985439, reading_452984843[0].Field1[0], NTI603979779);
       var i_452985440 = 0;
       Label11: do {
           Label12: while (true) {
@@ -3396,7 +3397,7 @@ function HEX3Aanonymous_452985195() {
     Label13: do {
       var l_452985131 = [];
       var colontmp__452985443 = [[], [], [], []];
-      colontmp__452985443 = nimCopy(colontmp__452985443, reading_452984843[0].Field0[3], NTI587202563);
+      colontmp__452985443 = nimCopy(colontmp__452985443, reading_452984843[0].Field0[3], NTI603979779);
       var i_452985444 = 0;
       Label14: do {
           Label15: while (true) {
@@ -3420,7 +3421,7 @@ function HEX3Aanonymous_452985195() {
     Label16: do {
       var l_452985138 = [];
       var colontmp__452985447 = [[], [], [], []];
-      colontmp__452985447 = nimCopy(colontmp__452985447, reading_452984843[0].Field0[2], NTI587202563);
+      colontmp__452985447 = nimCopy(colontmp__452985447, reading_452984843[0].Field0[2], NTI603979779);
       var i_452985448 = 0;
       Label17: do {
           Label18: while (true) {
@@ -3444,7 +3445,7 @@ function HEX3Aanonymous_452985195() {
     Label19: do {
       var l_452985145 = [];
       var colontmp__452985451 = [[], [], [], []];
-      colontmp__452985451 = nimCopy(colontmp__452985451, reading_452984843[0].Field0[1], NTI587202563);
+      colontmp__452985451 = nimCopy(colontmp__452985451, reading_452984843[0].Field0[1], NTI603979779);
       var i_452985452 = 0;
       Label20: do {
           Label21: while (true) {
@@ -3468,7 +3469,7 @@ function HEX3Aanonymous_452985195() {
     Label22: do {
       var l_452985152 = [];
       var colontmp__452985455 = [[], [], [], []];
-      colontmp__452985455 = nimCopy(colontmp__452985455, reading_452984843[0].Field0[0], NTI587202563);
+      colontmp__452985455 = nimCopy(colontmp__452985455, reading_452984843[0].Field0[0], NTI603979779);
       var i_452985456 = 0;
       Label23: do {
           Label24: while (true) {
@@ -3495,7 +3496,7 @@ function HEX3Aanonymous_452985195() {
     Label25: do {
       var l_452985159 = [];
       var colontmp__452985459 = [[], [], [], []];
-      colontmp__452985459 = nimCopy(colontmp__452985459, reading_452984843[0].Field2[3], NTI587202563);
+      colontmp__452985459 = nimCopy(colontmp__452985459, reading_452984843[0].Field2[3], NTI603979779);
       var i_452985460 = 0;
       Label26: do {
           Label27: while (true) {
@@ -3520,7 +3521,7 @@ function HEX3Aanonymous_452985195() {
     Label28: do {
       var l_452985166 = [];
       var colontmp__452985463 = [[], [], [], []];
-      colontmp__452985463 = nimCopy(colontmp__452985463, reading_452984843[0].Field2[2], NTI587202563);
+      colontmp__452985463 = nimCopy(colontmp__452985463, reading_452984843[0].Field2[2], NTI603979779);
       var i_452985464 = 0;
       Label29: do {
           Label30: while (true) {
@@ -3545,7 +3546,7 @@ function HEX3Aanonymous_452985195() {
     Label31: do {
       var l_452985173 = [];
       var colontmp__452985467 = [[], [], [], []];
-      colontmp__452985467 = nimCopy(colontmp__452985467, reading_452984843[0].Field2[1], NTI587202563);
+      colontmp__452985467 = nimCopy(colontmp__452985467, reading_452984843[0].Field2[1], NTI603979779);
       var i_452985468 = 0;
       Label32: do {
           Label33: while (true) {
@@ -3570,7 +3571,7 @@ function HEX3Aanonymous_452985195() {
     Label34: do {
       var l_452985180 = [];
       var colontmp__452985471 = [[], [], [], []];
-      colontmp__452985471 = nimCopy(colontmp__452985471, reading_452984843[0].Field2[0], NTI587202563);
+      colontmp__452985471 = nimCopy(colontmp__452985471, reading_452984843[0].Field2[0], NTI603979779);
       var i_452985472 = 0;
       Label35: do {
           Label36: while (true) {
@@ -3669,7 +3670,7 @@ function HEX3Aanonymous_452985195() {
 }
 
 function newReading_452985276() {
-    reading_452984843[0] = nimCopy(reading_452984843[0], geomancy_587202703(), NTI587202684);
+    reading_452984843[0] = nimCopy(reading_452984843[0], geomancy_603979920(), NTI603979900);
     cReading_452984898[0] = nimCopy(cReading_452984898[0], readingCstring_452984875(), NTI452984871);
     selectFig_452984983(reading_452984843[0].Field0[0], makeNimstrLit("m0"));
 
@@ -3747,7 +3748,7 @@ function genInfobox_452985226(data_452985227) {
               var tmp_452985238 = tree_1140851462(63, []);
               add_1140851399(tmp_452985238, text_1140851514(makeNimstrLit("Outer Element: ")));
               add_1140851399(tmp_452985237, tmp_452985238);
-              add_1140851399(tmp_452985237, text_1140851514(data_452985227.Field12));
+              add_1140851399(tmp_452985237, text_1140851514(data_452985227.Field13));
               add_1140851399(tmp_452985232, tmp_452985237);
               break;
             case 1:
@@ -3756,7 +3757,7 @@ function genInfobox_452985226(data_452985227) {
               var tmp_452985240 = tree_1140851462(63, []);
               add_1140851399(tmp_452985240, text_1140851514(makeNimstrLit("Inner Element: ")));
               add_1140851399(tmp_452985239, tmp_452985240);
-              add_1140851399(tmp_452985239, text_1140851514(data_452985227.Field11));
+              add_1140851399(tmp_452985239, text_1140851514(data_452985227.Field12));
               add_1140851399(tmp_452985232, tmp_452985239);
               break;
             default: 
@@ -3779,7 +3780,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985244, tmp_452985245);
     add_1140851399(tmp_452985243, tmp_452985244);
     var tmp_452985246 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985246, text_1140851514(data_452985227.Field3));
+    add_1140851399(tmp_452985246, text_1140851514(data_452985227.Field4));
     add_1140851399(tmp_452985243, tmp_452985246);
     var tmp_452985247 = tree_1140851462(40, []);
     var tmp_452985248 = tree_1140851462(63, []);
@@ -3787,7 +3788,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985247, tmp_452985248);
     add_1140851399(tmp_452985243, tmp_452985247);
     var tmp_452985249 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985249, text_1140851514(data_452985227.Field2));
+    add_1140851399(tmp_452985249, text_1140851514(data_452985227.Field3));
     add_1140851399(tmp_452985243, tmp_452985249);
     var tmp_452985250 = tree_1140851462(40, []);
     var tmp_452985251 = tree_1140851462(63, []);
@@ -3795,7 +3796,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985250, tmp_452985251);
     add_1140851399(tmp_452985243, tmp_452985250);
     var tmp_452985252 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985252, text_1140851514(data_452985227.Field5));
+    add_1140851399(tmp_452985252, text_1140851514(data_452985227.Field6));
     add_1140851399(tmp_452985243, tmp_452985252);
     var tmp_452985253 = tree_1140851462(40, []);
     var tmp_452985254 = tree_1140851462(63, []);
@@ -3803,7 +3804,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985253, tmp_452985254);
     add_1140851399(tmp_452985243, tmp_452985253);
     var tmp_452985255 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985255, text_1140851514(data_452985227.Field10));
+    add_1140851399(tmp_452985255, text_1140851514(data_452985227.Field11));
     add_1140851399(tmp_452985243, tmp_452985255);
     add_1140851399(tmp_452985242, tmp_452985243);
     add_1140851399(tmp_452985241, tmp_452985242);
@@ -3816,7 +3817,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985258, tmp_452985259);
     add_1140851399(tmp_452985257, tmp_452985258);
     var tmp_452985260 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985260, text_1140851514(data_452985227.Field9));
+    add_1140851399(tmp_452985260, text_1140851514(data_452985227.Field10));
     add_1140851399(tmp_452985257, tmp_452985260);
     var tmp_452985261 = tree_1140851462(40, []);
     var tmp_452985262 = tree_1140851462(63, []);
@@ -3824,7 +3825,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985261, tmp_452985262);
     add_1140851399(tmp_452985257, tmp_452985261);
     var tmp_452985263 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985263, text_1140851514(data_452985227.Field8));
+    add_1140851399(tmp_452985263, text_1140851514(data_452985227.Field9));
     add_1140851399(tmp_452985257, tmp_452985263);
     var tmp_452985264 = tree_1140851462(40, []);
     var tmp_452985265 = tree_1140851462(63, []);
@@ -3832,7 +3833,7 @@ function genInfobox_452985226(data_452985227) {
     add_1140851399(tmp_452985264, tmp_452985265);
     add_1140851399(tmp_452985257, tmp_452985264);
     var tmp_452985266 = tree_1140851462(41, []);
-    add_1140851399(tmp_452985266, text_1140851514(data_452985227.Field4));
+    add_1140851399(tmp_452985266, text_1140851514(data_452985227.Field5));
     add_1140851399(tmp_452985257, tmp_452985266);
     add_1140851399(tmp_452985256, tmp_452985257);
     add_1140851399(tmp_452985241, tmp_452985256);
@@ -3841,13 +3842,13 @@ function genInfobox_452985226(data_452985227) {
     var tmp_452985268 = tree_1140851462(63, []);
     add_1140851399(tmp_452985268, text_1140851514(makeNimstrLit("Divinatory meaning: ")));
     add_1140851399(tmp_452985267, tmp_452985268);
-    add_1140851399(tmp_452985267, text_1140851514(data_452985227.Field7));
+    add_1140851399(tmp_452985267, text_1140851514(data_452985227.Field8));
     add_1140851399(tmp_452985229, tmp_452985267);
     var tmp_452985269 = tree_1140851462(32, []);
     var tmp_452985270 = tree_1140851462(63, []);
     add_1140851399(tmp_452985270, text_1140851514(makeNimstrLit("Commentary: ")));
     add_1140851399(tmp_452985269, tmp_452985270);
-    add_1140851399(tmp_452985269, text_1140851514(data_452985227.Field6));
+    add_1140851399(tmp_452985269, text_1140851514(data_452985227.Field7));
     add_1140851399(tmp_452985229, tmp_452985269);
     result_452985228 = tmp_452985229;
 
