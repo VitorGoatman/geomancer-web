@@ -1,4 +1,4 @@
-import geomancy, figures, dom
+import geomancerpkg/[geomancy, figures], dom
 from sugar import `=>`
 include karax / prelude
 
@@ -7,7 +7,9 @@ var
   selected, lastselected = "m0"
   details: FigData
 
-proc readingCstring(): tuple[ms,ds,ns:array[4,array[4,cstring]], rw,lw,ju:array[4,cstring]] =
+proc readingCstring(): tuple[
+  ms,ds,ns:array[4,array[4,cstring]],
+  rw,lw,ju:array[4,cstring]] =
   for fs in 0..3:
     for f in 0..3:
       result.ms[fs][f] = reading.ms[fs][f].cstring
