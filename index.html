@@ -1,63 +1,64 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Geomancer</title>
-<link rel="icon" type="image/x-icon" href="icon.jpg">
-<link rel="stylesheet" href="w3.css">
-<link rel="stylesheet" href="style.css">
-</head>
-<body class="w3-container">
-<div class="" id="ROOT" />
+	<head>
+		<meta name="generator" content="content" charset="utf8" />
+		<title>Geomancer</title>
+		<link rel="icon" type="image/x-icon" href="icon.jpg">
+		<link rel="stylesheet" href="w3.css">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body class="w3-container">
+		<div class="" id="ROOT" />
 
-<script>
-function drawImg(data) {
-	function printFig(ctx,fig,x,y){
-		for(i=0;i<=3;i++){
-	  		ctx.fillText(fig[i], x, y+(i*10));
-		}
-	}
-	var ms = data.Field0
-	var ds = data.Field1
-	var ns = data.Field2
-	var rw = data.Field3
-	var lw = data.Field4
-	var ju = data.Field5
-	var c = document.getElementById("canvas");
-	var ctx = c.getContext("2d");
-	ctx.fillStyle = 'black';
-	ctx.fillRect(0, 0, c.width, c.height);
-	ctx.fillStyle = 'white';
-	ctx.fillRect(2, 2, c.width-4, c.height-4);
-	for(i = 0; i <= 7; i++){
-	  ctx.strokeRect((i*(c.width/8)), 0, c.width/8, c.height/4);
-	}
-	for(i=0;i<=3;i++){
-	  ctx.strokeRect((i*(c.width/4)), (c.height/4), c.width/4, (c.height/4));
-	}
-	ctx.strokeRect(0, 2*(c.height/4), (c.width/2), 1*(c.height/4));
-	ctx.strokeRect((c.width/2), 2*(c.height/4), 2*(c.width/2), 1*(c.height/4));
-	ctx.strokeRect(0, 3*(c.height/4), (c.width), c.height);
-	ctx.font = "20px Arial";
-	ctx.fillStyle = "black";
-	printFig(ctx,ds[3],15,30);
-	printFig(ctx,ds[2],65,30);
-	printFig(ctx,ds[1],115,30);
-	printFig(ctx,ds[0],165,30);
-	printFig(ctx,ms[3],215,30);
-	printFig(ctx,ms[2],265,30);
-	printFig(ctx,ms[1],315,30);
-	printFig(ctx,ms[0],365,30);
-	printFig(ctx,ns[3],40,105);
-	printFig(ctx,ns[2],140,105);
-	printFig(ctx,ns[1],240,105);
-	printFig(ctx,ns[0],340,105);
-	printFig(ctx,lw,90,180);
-	printFig(ctx,rw,290,180);
-	printFig(ctx,ju,190,255);
-	var img = c.toDataURL()
-	return img.toString()
-}
-</script>
-<script type="text/javascript" src="page.js"></script>
-</body>
+		<script>
+		 function drawImg(data) {
+			 function printFig(ctx,fig,x,y){
+				 for(i=0;i<=3;i++){
+	  				 ctx.fillText(fig[i], x, y+(i*10));
+				 }
+			 }
+			 var ms = data.Field0
+			 var ds = data.Field1
+			 var ns = data.Field2
+			 var rw = data.Field3
+			 var lw = data.Field4
+			 var ju = data.Field5
+			 var c = document.getElementById("canvas");
+			 var ctx = c.getContext("2d");
+			 ctx.fillStyle = 'black';
+			 ctx.fillRect(0, 0, c.width, c.height);
+			 ctx.fillStyle = 'white';
+			 ctx.fillRect(2, 2, c.width-4, c.height-4);
+			 for(i = 0; i <= 7; i++){
+				 ctx.strokeRect((i*(c.width/8)), 0, c.width/8, c.height/4);
+			 }
+			 for(i=0;i<=3;i++){
+				 ctx.strokeRect((i*(c.width/4)), (c.height/4), c.width/4, (c.height/4));
+			 }
+			 ctx.strokeRect(0, 2*(c.height/4), (c.width/2), 1*(c.height/4));
+			 ctx.strokeRect((c.width/2), 2*(c.height/4), 2*(c.width/2), 1*(c.height/4));
+			 ctx.strokeRect(0, 3*(c.height/4), (c.width), c.height);
+			 ctx.font = "20px Arial";
+			 ctx.fillStyle = "black";
+			 printFig(ctx,ds[3],15,30);
+			 printFig(ctx,ds[2],65,30);
+			 printFig(ctx,ds[1],115,30);
+			 printFig(ctx,ds[0],165,30);
+			 printFig(ctx,ms[3],215,30);
+			 printFig(ctx,ms[2],265,30);
+			 printFig(ctx,ms[1],315,30);
+			 printFig(ctx,ms[0],365,30);
+			 printFig(ctx,ns[3],40,105);
+			 printFig(ctx,ns[2],140,105);
+			 printFig(ctx,ns[1],240,105);
+			 printFig(ctx,ns[0],340,105);
+			 printFig(ctx,lw,90,180);
+			 printFig(ctx,rw,290,180);
+			 printFig(ctx,ju,190,255);
+			 var img = c.toDataURL()
+			 return img.toString()
+		 }
+		</script>
+		<script type="text/javascript" src="page.js"></script>
+	</body>
 </html>

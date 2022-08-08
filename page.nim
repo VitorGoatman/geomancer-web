@@ -44,29 +44,29 @@ proc genTable():VNode =
     tr:
       td(id="d3", onclick = () => selectFig(reading.ds[3],"d3")):
         for l in reading.ds[3]:
-              pre: text l
+          pre: text l
       td(id="d2", onclick = () => selectFig(reading.ds[2],"d2")):
         for l in reading.ds[2]:
-              pre: text l
+          pre: text l
       td(id="d1", onclick = () => selectFig(reading.ds[1],"d1")):
         for l in reading.ds[1]:
-              pre: text l
+          pre: text l
       td(id="d0", onclick = () => selectFig(reading.ds[0],"d0")):
         for l in reading.ds[0]:
-              pre: text l
+          pre: text l
           
       td(id="m3", onclick = () => selectFig(reading.ms[3],"m3")):
         for l in reading.ms[3]:
-              pre: text l
+          pre: text l
       td(id="m2", onclick = () => selectFig(reading.ms[2],"m2")):
         for l in reading.ms[2]:
-              pre: text l
+          pre: text l
       td(id="m1", onclick = () => selectFig(reading.ms[1],"m1")):
         for l in reading.ms[1]:
-              pre: text l
+          pre: text l
       td(id="m0", onclick = () => selectFig(reading.ms[0],"m0")):
         for l in reading.ms[0]:
-              pre: text l
+          pre: text l
     tr:
       td(colspan="2",id="n3", onclick = () => selectFig(reading.ns[3],"n3")):
         for l in reading.ns[3]:
